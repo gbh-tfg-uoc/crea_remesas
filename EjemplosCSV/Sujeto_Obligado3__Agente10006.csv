@@ -1,0 +1,516 @@
+﻿NUMERO_TRANSACCION,FECHA,HORA,IMPORTE,ESTADO_OPERACION,PAIS_ORIGEN,NOMBRE_ORDENANTE,APELLIDO_ORDENANTE,SEGUNDO_APELLIDO_ORDENANTE,PAIS_DOC_ORDENANTE,NUM_DOC_ORDENANTE,PAIS_NAC_ORDENANTE,FECHA_NAC_ORDENANTE,es_Agente,NOMBRE_BENEFICIARIO,APELLIDO_BENEFICIARIO,SEGUNDO_APELLIDO_BENEFICIARIO,PAIS_DESTINO,ENT_TOW_CIT_RES,ENT_COD_PAR_ENT,ENT_NAT_REF_COD,es_PEP
+TXN-J4Y0DI3W,01/01/2023,09:13,1020,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Q94DB2Z3,01/01/2023,21:27,2634,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-AS80562V,01/02/2023,10:34,2398,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-H24MESV7,01/02/2023,18:14,2637,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BZ5MKVT3,01/02/2023,16:02,2359,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Hilario,Puga,Gibert,Uganda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3Y89ZQEO,01/03/2023,11:11,61,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9YMFRGGU,01/04/2023,18:14,494,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-W6S6TN9K,01/04/2023,09:20,805,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0CNF7VUF,01/04/2023,13:56,207,FALLIDA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-WBLTLLPX,01/05/2023,10:00,757,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OWEBN400,01/06/2023,15:57,1455,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-95AGMOSO,01/06/2023,23:08,1951,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UYA4SYCL,01/06/2023,12:23,647,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-K4KYPFII,01/06/2023,15:09,2010,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UIZ2TYKN,01/07/2023,09:13,1335,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BETLODQ5,01/08/2023,09:01,1860,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OLFF36PF,01/08/2023,18:06,871,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OIZ5XRLV,01/09/2023,12:01,968,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-7SJ17F1T,01/09/2023,17:28,1455,CANCELADA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,La Eliana,Sujeto_Obligado3,Agente10006,True
+TXN-DIUNJT6D,01/10/2023,14:07,329,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-7Q1RZ6A7,01/10/2023,09:38,1621,EXITOSA,España,Rubén,Hoyos,Cabezas,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-4DSM48NG,01/11/2023,19:19,1233,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-D4LQJA48,01/11/2023,10:52,1084,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HCPMZ89F,01/12/2023,13:34,701,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XS23W0MQ,02/01/2023,19:39,594,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-M0ZZE1G7,02/01/2023,16:26,1992,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-5Z90T2VS,02/01/2023,16:58,385,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ANBABX58,02/02/2023,18:25,1758,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-VCZ875AG,02/02/2023,11:57,1904,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UQDRIVWW,02/02/2023,09:02,1431,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-C5GBPT8C,02/06/2023,16:23,541,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-N0A8UWM6,02/07/2023,20:01,1045,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9ZSL5XFJ,02/08/2023,20:56,2433,EXITOSA,España,Ariadna,Iñiguez,Cañellas,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EBR9TH6U,02/08/2023,15:50,2121,EXITOSA,España,Cecilia,Piña,Rivera,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ZCH75SV0,02/09/2023,12:41,651,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3CQL620I,02/10/2023,19:47,341,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OEL4G673,02/12/2023,21:12,2057,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JOQSNXOX,03/01/2023,14:12,1102,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GQQJ9GPZ,03/02/2023,17:05,1090,FALLIDA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Amaya,Salamanca,Parejo,Guinea Bissau,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-YDMIR9C0,03/04/2023,20:53,2117,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HQS0LRGX,03/05/2023,21:32,1571,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,True,Norberto,Salom,,Uruguay,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NCPO49O3,03/06/2023,15:40,105,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-AGI0ID1L,03/08/2023,11:20,294,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RHSQ6FZ2,03/09/2023,09:16,2650,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EX0N7QLL,03/09/2023,16:46,152,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JE3TQZ79,03/10/2023,16:05,2435,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XFHYSR76,03/11/2023,15:24,2338,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-J52E0HIX,03/11/2023,15:41,2083,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-O77R7E6U,03/12/2023,16:19,505,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-CSE9NGKD,04/01/2023,13:55,1832,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0CG7APAX,04/01/2023,10:25,602,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Isidora,Portero,,Ghana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-15GJFOW3,04/03/2023,11:40,314,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QPE6PGRJ,04/03/2023,09:14,1317,CANCELADA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,True,Norberto,Salom,,Uruguay,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3ROVUZXO,04/03/2023,15:02,1326,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3IOR9TXV,04/04/2023,17:15,1243,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,ZZZ5FBE6,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PYL1NLSY,04/04/2023,11:36,1933,FALLIDA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-IM58XNTE,04/04/2023,12:29,590,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-2MNVFYBE,04/05/2023,20:42,2579,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NXOUMWFP,04/06/2023,14:32,2437,FALLIDA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FNBQ5EX3,04/06/2023,18:56,1046,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-6N3TBYWC,04/08/2023,10:36,2575,EXITOSA,España,Édgar,Cardona,Tomás,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3HTNH0R2,04/08/2023,12:08,2591,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JCDBU0CQ,04/08/2023,12:22,388,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-8X86TW4N,04/09/2023,09:20,530,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Tere,Canales,Agullo,Marruecos,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-2KEGIBF0,04/10/2023,21:48,2740,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-CAZ4NM6U,04/10/2023,09:37,986,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,ZZZ4BDEF,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-F935YDXS,04/10/2023,12:39,2217,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-G64PLB9S,04/11/2023,10:03,534,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-LVS7BOCW,04/11/2023,13:55,1871,CANCELADA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9QDJK5LF,05/02/2023,17:10,1424,EXITOSA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9O8P3J6R,05/02/2023,10:06,454,EXITOSA,España,Evaristo,Alegria,Alberola,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-YGB3KVNZ,05/03/2023,16:22,1285,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-67HYH76O,05/03/2023,21:25,280,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NP2082E0,05/04/2023,13:21,2493,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-IWSOV8SX,05/04/2023,09:12,2264,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-K5WILNCU,05/05/2023,10:23,1772,EXITOSA,España,Álvaro,Diez,Villanueva,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-M7FMZBBA,05/06/2023,21:39,1357,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Y5OQN11S,05/07/2023,10:31,322,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UL7V30PZ,05/08/2023,21:26,808,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-W2EWK7W3,05/08/2023,18:15,2102,EXITOSA,España,Fabiana,Luz,Sanjuan,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RLV5WREX,05/08/2023,11:39,2768,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GK1G5Q5N,05/09/2023,17:19,704,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-6MNNHE24,06/01/2023,13:51,1100,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Florentina,Lobo,Larrea,Indonesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GPAZV5QN,06/01/2023,18:07,1111,EXITOSA,España,Venceslás,Roldán,Maza,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-AQYGS2WO,06/02/2023,19:09,1192,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HZ3XTB7W,06/02/2023,21:47,1822,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Julieta,Peralta,Cabrero,Palau,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0NSBP2VF,06/02/2023,19:42,163,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PLKYCKEK,06/03/2023,18:14,774,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EH5N35IV,06/03/2023,15:51,426,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BOELL7DQ,06/03/2023,13:53,2074,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-VQ8WKOYZ,06/03/2023,15:50,1360,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Régulo,Espejo,Ricart,Tayikistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BPDPXNI6,06/06/2023,14:01,2379,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,ZZZ1561A,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-4Y4VD6ZY,06/08/2023,19:54,1226,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XLC0IK09,06/11/2023,12:24,372,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EESKHPY4,06/12/2023,19:41,1255,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Ale,Valls,Ferrer,Dinamarca,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-AJZ4OMBC,07/02/2023,18:40,347,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-TXCGLENK,07/04/2023,13:46,2428,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ERN8YTCJ,07/04/2023,18:57,1407,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9A5ES06E,07/04/2023,16:16,1984,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-W4209R0F,07/04/2023,20:04,57,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-U5R7ZE09,07/05/2023,17:51,1534,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-MDONSLU2,07/06/2023,13:53,1913,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,True,Norberto,Salom,,Uruguay,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-LEY5II13,07/06/2023,20:47,2685,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Norberto,Salom,,Uruguay,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PTOPY7UD,07/06/2023,09:53,1153,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRIJK8NH,07/07/2023,10:54,270,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-23Y7RHKC,07/07/2023,15:20,1288,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Q2Z5PVWY,07/08/2023,20:54,2230,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-CGZ5JMNL,07/08/2023,10:42,1377,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ZTO0T0SC,07/08/2023,16:58,672,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RQ6VS22Y,07/08/2023,15:55,2597,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Q9TE4YS1,07/09/2023,10:43,2747,CANCELADA,España,Josefa,Camacho,,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0ASENCOE,07/11/2023,16:50,2500,CANCELADA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JBDF7CYT,07/11/2023,17:50,237,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-C9C7V9GA,07/11/2023,12:17,2268,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BO5I799F,08/01/2023,14:04,1548,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-03W90M7C,08/03/2023,17:20,924,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-KO5BOX4H,08/03/2023,16:29,205,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HQ71BS9W,08/04/2023,17:59,2490,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GEI8BVNE,08/04/2023,03:53,1969,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UX9IZZ7I,08/05/2023,19:43,1471,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,La Eliana,Sujeto_Obligado3,Agente10006,True
+TXN-JVPWBDM4,08/05/2023,21:38,2978,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-SLM5NVUF,08/06/2023,19:02,1549,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-1PTA2EWM,08/06/2023,11:34,1128,CANCELADA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-DVQQTYCO,08/06/2023,07:13,1683,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-IRS5W1QY,08/07/2023,16:37,2187,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-2TTT4N4N,08/07/2023,11:11,556,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-LP0ATPWB,08/08/2023,18:03,2053,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,ZZZA458D,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JVFMPFJA,08/10/2023,15:43,2671,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Marcia,Salazar,Novoa,Nueva Zelandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-6A7ZZ22H,08/12/2023,16:41,2958,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,ZZZ79AB0,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-V0ZEJPDM,09/01/2023,18:41,1283,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-DMLVJQPL,09/02/2023,18:01,1004,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Óscar,Ríos,Villa,Filipinas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-81FDDA10,09/03/2023,16:58,2958,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-A0IKIT8U,09/03/2023,11:04,1803,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-7RJYC5XN,09/04/2023,11:45,1061,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-KU1MUV50,09/05/2023,18:01,1950,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QL1N9X6K,09/05/2023,20:14,2335,CANCELADA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-B5WMJMKU,09/09/2023,20:06,586,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-MBCPZRXU,09/12/2023,16:07,2716,EXITOSA,España,Ariel,Torrents,Peñas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0NVZZDGP,09/12/2023,16:26,1765,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-AHHG97IG,10/01/2023,17:18,1083,EXITOSA,España,Maxi,Marin,,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-5FL2J71R,10/01/2023,21:16,2840,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-22PEJLRF,10/03/2023,15:01,2920,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PNWK5VK5,10/03/2023,17:24,1815,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BHQ0ZS1K,10/04/2023,10:58,393,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-C5ZDI8U8,10/04/2023,14:19,2927,CANCELADA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UAX4ORMX,10/04/2023,13:38,1675,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UY7DKS5G,10/06/2023,16:37,1296,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QH4OAUHW,10/06/2023,03:40,2565,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PH2WPJHX,10/06/2023,14:07,2685,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3T932VT5,10/07/2023,20:29,1849,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Régulo,Espejo,Ricart,Tayikistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-V9WVTKUS,10/08/2023,20:43,535,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-D2Z1HA2X,10/09/2023,11:52,1286,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NGTPVKGI,10/09/2023,21:56,685,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3F3JK55X,10/10/2023,13:34,474,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-K7ZLBPRF,10/11/2023,21:37,529,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0OIL10ZU,10/12/2023,09:00,430,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0D62Q7VK,10/12/2023,13:35,1537,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-67CF7AX7,11/02/2023,12:37,1010,EXITOSA,España,Federico,Vilar,Puente,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-D3HR67X2,11/02/2023,14:21,1463,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-V3JIKLPP,11/03/2023,17:29,432,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-C9JX4DJZ,11/04/2023,10:39,2863,CANCELADA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OX03M9TO,11/05/2023,21:06,2196,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-55QC3EX8,11/06/2023,20:00,1654,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UVCPUGHF,11/06/2023,19:15,2717,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-MRG4J32E,11/08/2023,12:35,340,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-TS2JJE4D,11/08/2023,11:59,2347,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Juan Luis,Escamilla,,Turkmenistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-SJA4XFV2,11/08/2023,03:10,943,CANCELADA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-WZ31Y5KK,11/08/2023,20:10,1042,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3DMF6OYQ,11/09/2023,10:59,2190,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-SEM75MSH,11/09/2023,15:32,143,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0YQ6I5O5,11/10/2023,11:19,595,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-A1U9JXGS,11/12/2023,18:58,2595,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-1BN057O2,12/01/2023,19:15,1148,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-05QVZLL9,12/02/2023,12:51,2598,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-O4ZANNCT,12/02/2023,11:09,679,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Cristian,Galindo,Espejo,Kenya,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-TV7QESMY,12/03/2023,04:52,1644,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-SGK31S91,12/03/2023,11:45,259,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FTS1ZQKI,12/04/2023,17:03,617,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-W7TGUQ5C,12/05/2023,21:02,1267,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-WPG2BD9Q,12/05/2023,15:32,1940,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XSCTD8WY,12/06/2023,11:40,559,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-IMWPBUKZ,12/06/2023,17:59,439,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-IVEJ1KF7,12/06/2023,06:44,1758,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ORTAICBP,12/07/2023,19:08,818,CANCELADA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Esther,Poza,Jara,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OC8EIMZS,12/07/2023,12:54,859,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XDAIZGXZ,12/09/2023,14:44,2754,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-2GCHXKZ3,12/09/2023,18:51,1838,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Miguel Ángel,Castañeda,,Líbano,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ZOUX53AZ,12/09/2023,19:56,1374,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-8X8JXN0W,12/10/2023,13:53,2693,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,ZZZ55946,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIX9O3DO,12/11/2023,10:57,2809,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OISQVLIL,13/02/2023,21:59,1696,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PJORBEOC,13/02/2023,21:20,1653,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-7FHD97OQ,13/02/2023,10:28,2007,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-F3VRXREM,13/02/2023,05:47,2372,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-14U3CTZC,13/04/2023,15:15,2135,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,ZZZFBE7B,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-5H2EII1M,13/04/2023,13:38,156,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QEAWQA1X,13/04/2023,16:04,1279,EXITOSA,España,Quirino,Duran,Salom,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JYJWPOYC,13/04/2023,13:03,191,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NEC9WM85,13/05/2023,19:28,1581,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NIKT0Z3O,13/05/2023,13:30,1434,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-2M1HVSR3,13/06/2023,19:34,656,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Q9E7YRLC,13/06/2023,09:41,2108,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0PXGBRAZ,13/06/2023,03:24,1317,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-C5CNEI0G,13/08/2023,12:19,1394,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-VR5DA24W,13/08/2023,00:17,2856,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-78GRVLNC,13/10/2023,18:58,195,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-5QU41IDG,13/11/2023,20:24,879,EXITOSA,España,Néstor,Torralba,Real,Chipre,Z9326552B,Uganda,16/04/1918,False,Eleuterio,Alberdi,,Turquía,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XTTV7O5P,13/12/2023,16:57,2367,EXITOSA,España,Isaac,Gual,Carretero,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NURK1GAR,14/01/2023,09:56,2334,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EW4UV6JH,14/02/2023,20:05,239,EXITOSA,España,Etelvina,Blanco,Álvaro,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OW46EFS2,14/02/2023,17:20,822,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Fabiola,Barceló,Amores,Indonesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-7O5XZVUO,14/02/2023,20:51,2683,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-V9HNTRQJ,14/03/2023,15:19,2717,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3H3ZHD2H,14/03/2023,13:06,1157,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ZCN8XZ13,14/04/2023,21:36,2797,EXITOSA,España,Regina,Castejón,Baena,Belice,ZZZ022DE,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BPBMD7MX,14/04/2023,14:12,1836,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-KCQZ3UOX,14/05/2023,09:34,479,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-7CPWTU0N,14/05/2023,19:36,2828,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RVUEK52P,14/06/2023,21:06,1708,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-6CJU76UP,14/06/2023,21:02,1777,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XVGAYG9O,14/07/2023,20:06,2700,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PODONRN6,14/07/2023,18:10,752,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3J6FA5J2,14/08/2023,17:25,626,CANCELADA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-90MVJRPY,14/08/2023,20:47,1930,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QXU6DUK7,14/09/2023,19:50,1864,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-V1ZLX6P5,14/09/2023,18:19,513,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-TNR6HZYN,14/10/2023,18:59,1653,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GI1CRH0I,14/10/2023,16:09,1861,CANCELADA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JOK4IAHG,14/12/2023,21:17,511,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HUC4FTJ1,14/12/2023,21:56,2620,CANCELADA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Virgilio,Piquer,Cerezo,Chile,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GOCFGLZI,15/02/2023,18:16,385,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Silvia,Acedo,Sans,Barbados,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-AA5SAAGI,15/02/2023,11:22,2103,CANCELADA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RCOGAGIT,15/03/2023,14:13,1802,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-5D96VSWU,15/04/2023,06:59,2781,EXITOSA,España,Azahara,Fábregas,,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-6T27PAJA,15/05/2023,21:54,2014,EXITOSA,España,Ramiro,Villaverde,,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JJRKUYA9,15/06/2023,15:54,152,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BZEOE8DS,15/06/2023,18:39,1386,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-V92DOO9D,15/06/2023,10:14,901,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-U2K9O5LG,15/08/2023,10:16,1722,CANCELADA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9WA9BP3N,15/08/2023,09:29,1615,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-I4IGBZ3D,15/09/2023,18:51,2620,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-6M0J3PIV,15/09/2023,21:39,2329,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-WEC74CU1,15/09/2023,12:49,2489,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-4XX0R9AV,15/10/2023,21:20,500,CANCELADA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0WIV1TPT,15/10/2023,14:46,1595,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-N5SCX2TF,15/11/2023,19:59,1933,EXITOSA,España,Josep,Salmerón,Pedraza,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HH53UTBK,15/12/2023,18:08,53,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JELQ01BH,15/12/2023,12:09,2931,CANCELADA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-2OGQCJK3,16/02/2023,17:25,283,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-67AGJVLT,16/02/2023,16:59,1482,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-E3AZFHIW,16/03/2023,19:20,706,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Y71DZOG2,16/04/2023,02:15,1069,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QXGKMFFY,16/05/2023,17:17,1243,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BTOL02L4,16/05/2023,19:16,200,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EB3MY4TQ,16/08/2023,12:17,659,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QMFCKJC4,16/08/2023,20:06,1283,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-WMMARKH4,16/09/2023,15:00,2782,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GVUV5F0M,16/10/2023,15:34,2243,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3Q0S4FES,16/11/2023,11:09,1517,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PPSH5WGX,16/12/2023,17:25,2166,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-DOP6WB58,17/02/2023,18:11,1076,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-5SWNO1CK,17/03/2023,17:21,1511,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-U58VJT78,17/04/2023,21:52,1493,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EIPYQ06S,17/04/2023,18:40,2108,CANCELADA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XRROW0J6,17/04/2023,00:11,2732,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-08Z6KPJT,17/05/2023,21:31,359,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-DLLFG804,17/06/2023,18:26,2231,EXITOSA,España,Iris,Rubio,Escamilla,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-8NYXWEXJ,17/06/2023,18:15,841,FALLIDA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-DRWG3O7H,17/07/2023,11:27,2816,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-H7T9N4WR,17/09/2023,09:45,1017,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EU3EGS5Z,17/10/2023,17:13,2931,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XFXD7MOV,17/11/2023,18:30,2520,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BG0BQE4U,17/11/2023,11:25,2531,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-53Y8659N,17/12/2023,12:46,2859,CANCELADA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OJWWRUF4,17/12/2023,12:12,961,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-2JL7BL72,18/03/2023,19:46,524,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-MCSNALRC,18/03/2023,18:58,77,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-SC72UI6V,18/04/2023,14:32,1176,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-CYTITWHB,18/04/2023,19:06,810,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-TK7YWNAM,18/04/2023,19:50,491,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-8KKNRX3S,18/04/2023,12:08,2889,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Y68S0KU2,18/05/2023,11:39,2813,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-4ZUWP8X7,18/05/2023,17:12,2272,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-G6D0CJHX,18/06/2023,18:37,751,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-6Q7QE9EU,18/06/2023,09:20,2327,EXITOSA,España,Severo,Lobo,Lerma,Indonesia,X1654143Y,Egipto,28/03/1924,False,Florentina,Lobo,Larrea,Indonesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-VTGRHYYY,18/07/2023,09:41,1091,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-MZP3D24I,18/09/2023,10:15,2383,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-8PYG51AO,18/09/2023,10:00,733,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ODAJZ0EY,18/12/2023,17:51,425,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RDR41I0L,19/02/2023,12:31,1146,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-J7VHHC0J,19/02/2023,20:08,119,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-H8UQM06F,19/03/2023,15:41,1011,EXITOSA,España,Wilfredo,Borrell,Beltran,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XJ52RA5X,19/04/2023,21:26,1285,CANCELADA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-8MEH8O5P,19/05/2023,07:39,879,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Q6X6L5F1,19/07/2023,09:37,2560,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-KT30QKDB,19/07/2023,21:42,2249,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QYNGJAAC,19/10/2023,11:54,1345,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PPNC9VZ0,19/10/2023,16:11,1516,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-MLZXUF6D,19/10/2023,19:04,1681,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OLY4QF5M,19/11/2023,20:08,1170,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-LKSXRSIC,19/11/2023,10:07,2520,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-II61D65D,19/11/2023,21:59,378,CANCELADA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ZYVKCYBS,19/11/2023,16:58,2924,FALLIDA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-L5EX25K0,19/12/2023,09:22,2170,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-4UDGDGBC,19/12/2023,12:07,2775,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QA9L1R2U,19/12/2023,16:19,2242,CANCELADA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9JOT8Y3N,19/12/2023,16:23,197,CANCELADA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-7NM0TXS7,20/01/2023,17:53,2053,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QRH2ZH33,20/02/2023,10:21,1927,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UDBY87JC,20/03/2023,16:50,2989,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JBXTVE5N,20/04/2023,16:55,2535,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-G0LSSFUN,20/04/2023,15:32,2086,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-1PV3ARUY,20/05/2023,18:08,1033,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-1MJ2QJ7R,20/06/2023,13:10,540,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NG70TFCK,20/07/2023,19:53,524,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-L0RIE4Z2,20/07/2023,10:54,299,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9BDNCUX0,20/07/2023,15:50,1205,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-H1A6M6QA,20/08/2023,20:31,711,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RRH9BT39,20/10/2023,21:55,2176,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NZ4SCGG7,20/11/2023,18:42,1168,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9F5I41J4,20/11/2023,09:54,1927,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Julieta,Peralta,Cabrero,Palau,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-F9NXWCA2,20/12/2023,12:54,1318,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EYMOUFMH,21/01/2023,15:38,2999,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ZNKROI7N,21/01/2023,15:52,1207,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-4X8J9726,21/02/2023,14:17,1334,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-CMQFW4AM,21/02/2023,20:30,487,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FGUHIAH9,21/02/2023,16:12,2226,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9QZQUJYN,21/04/2023,21:48,2876,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-LXXP9Z8P,21/04/2023,13:50,58,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XNY5H9FP,21/04/2023,15:16,2276,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-V0SU2NBA,21/06/2023,17:14,1954,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JQ0N4066,21/07/2023,16:19,250,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-DE4TNVCM,21/09/2023,14:27,1328,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-MFKFYOO1,21/09/2023,16:02,218,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-MGUDDB26,21/09/2023,12:36,431,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-SOS3V6W8,21/09/2023,21:40,1495,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3CI30HIU,21/10/2023,20:19,667,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-IFVAIC3K,21/11/2023,19:06,109,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-39N7NT1I,21/11/2023,14:04,1934,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XGKZ8BGF,22/01/2023,17:43,416,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-691Y6MJQ,22/01/2023,17:19,300,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-E03B0TRC,22/01/2023,12:53,637,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JTWPLR3N,22/02/2023,18:43,1157,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GLZT7061,22/03/2023,10:28,578,CANCELADA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-A1SC51SI,22/04/2023,21:58,2138,CANCELADA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-C4WEDWSD,22/04/2023,10:10,1778,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-WNPTUB8F,22/05/2023,11:22,1248,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GZO02YPD,22/05/2023,20:48,1931,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-CWL7UVEF,22/06/2023,18:53,332,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-W8CRGR5I,22/08/2023,20:10,2825,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-4O43YGS1,22/08/2023,21:45,1298,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RNATF47S,22/09/2023,15:46,485,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-CGJJGBS0,22/10/2023,06:21,2935,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Q15EC8KE,22/10/2023,09:36,959,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-K7PDOTHY,22/10/2023,15:48,2067,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JSV6WVQB,22/10/2023,11:14,1785,EXITOSA,España,Ricarda,Noriega,Murillo,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GX3V940R,22/11/2023,19:13,165,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GSLLSUQ6,22/11/2023,09:25,2393,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Teófilo,Llamas,Bonilla,Suiza,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FQFXRNJF,22/11/2023,20:44,151,CANCELADA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-I3QV7ZOP,22/11/2023,14:31,2080,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3LNCP48Q,22/12/2023,09:30,1963,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Paz,Sureda,Roda,Tonga,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-07NJUJ3R,23/01/2023,10:21,1137,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RTPFZCCC,23/01/2023,14:24,653,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-L9VE89BR,23/01/2023,12:38,1191,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Jordi,Asensio,Torrents,Omán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ITC3FITM,23/02/2023,17:49,507,CANCELADA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-I8P6I653,23/02/2023,12:38,2800,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-0YRSI3B8,23/03/2023,12:31,982,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Severino,Hervia,Carbajo,Micronesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ADOX8GJ4,23/03/2023,20:42,1221,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OKI73RAY,23/05/2023,18:07,1934,FALLIDA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BMEYAKJK,23/05/2023,08:09,2073,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-P5MP5HIN,23/06/2023,15:39,1588,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3XGQPL0K,23/06/2023,10:43,1829,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,True,Norberto,Salom,,Uruguay,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-XYOM2X61,23/07/2023,12:29,1967,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Lucio,Azorin,Real,Egipto,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-KM4181ZQ,23/07/2023,14:24,1979,CANCELADA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FCIVZ7GV,23/08/2023,12:37,2517,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-W3LFQLUA,23/08/2023,14:53,951,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EWB1UVOO,23/09/2023,13:28,2507,FALLIDA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3IRH2N2D,23/09/2023,11:57,1244,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PLQ19ORF,23/10/2023,20:11,675,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-P3H0Y3E2,23/10/2023,10:26,2921,EXITOSA,España,Máxima,Orozco,Castañeda,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-I7PCMA0V,23/11/2023,10:57,1654,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Carlito,Segarra,Bermejo,Congo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-EFAZIGB9,23/11/2023,14:43,741,FALLIDA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-P4ZLAHHM,23/11/2023,13:42,1089,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-TCVRDBZW,23/12/2023,13:23,1277,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ENYDU5M7,23/12/2023,21:57,2668,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BAQPCXKD,23/12/2023,18:27,1019,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PKVBZUID,24/01/2023,20:37,2669,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GIKL8ZP4,24/01/2023,16:44,579,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BGNL6TZQ,24/01/2023,12:07,713,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3G5GHLDX,24/02/2023,21:38,1342,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-E21F8P3G,24/03/2023,19:25,1356,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Z1R8177X,24/04/2023,14:51,1531,FALLIDA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-1GZ5EO0X,24/04/2023,10:11,594,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-F755C6D1,24/05/2023,18:42,250,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-4UM85MMR,24/06/2023,19:01,2606,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-3GJXO6VB,24/06/2023,10:11,563,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-YD0OPUZT,24/07/2023,12:36,311,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-1VPPHIM3,24/08/2023,16:00,1860,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-68H91DSI,24/08/2023,11:42,986,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-77D8710L,24/09/2023,11:18,606,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-CCHV5WD9,24/10/2023,14:57,690,CANCELADA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ZAS4LK47,24/10/2023,15:59,1349,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-DQZWKRNP,24/10/2023,16:36,2388,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-YGM5ASU4,24/12/2023,14:08,2249,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-1XM5BJGZ,25/01/2023,18:19,586,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Eulalia,Rey,Garay,Bélgica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QZA9P9NY,25/02/2023,09:55,310,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-M6O12BXW,25/02/2023,13:47,111,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NMI20CGG,25/02/2023,21:04,1296,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-00VOBYYU,25/03/2023,04:35,845,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-D7AXI5CL,25/03/2023,17:35,2970,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-2NR9HHIW,25/03/2023,14:54,1794,EXITOSA,España,Trinidad,Goñi,Solé,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-CASNXOSW,25/04/2023,14:38,2207,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9SI8U56Z,25/05/2023,00:42,780,EXITOSA,España,Adora,Gallardo,Moliner,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-2YYQ3OSG,25/05/2023,16:16,1577,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GYY9JHLB,25/06/2023,19:47,897,FALLIDA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-87YE27T4,25/07/2023,15:15,223,EXITOSA,España,Diana,Reyes,Durán,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QE7818N6,25/08/2023,05:48,1205,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PQUAKH3Z,25/09/2023,12:41,95,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-GDH14FOS,25/10/2023,13:48,1005,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-LKWH3IJF,25/11/2023,09:21,205,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OUZAQKYL,25/11/2023,16:49,2314,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QQEY9H6H,25/11/2023,12:04,89,FALLIDA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-JCSH107L,25/11/2023,13:56,1610,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FCG33OLI,25/12/2023,09:28,2239,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UOBZ6ZX4,26/01/2023,16:34,1393,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RAOYUKMB,26/01/2023,13:21,2795,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-G8ZTOPSQ,26/01/2023,20:41,698,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RBN12ZN8,26/02/2023,19:05,1584,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-09V1YB7T,26/03/2023,19:44,1668,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-6ZWU20GN,26/04/2023,13:21,555,EXITOSA,España,Rosalina,Oller,Campo,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-PDHVPTF0,26/04/2023,16:51,907,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-TJZDVGOV,26/04/2023,09:54,2793,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Octavia,Aguiló,Mir,Botswana,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UWKIHBVT,26/06/2023,09:15,1878,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NOOZC3IU,26/06/2023,12:49,335,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-RRJ3EBGH,26/06/2023,19:16,2205,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-2N899LPC,26/07/2023,14:23,1146,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-QXAHW8HI,26/07/2023,16:48,2857,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-8MYDME7V,26/08/2023,12:28,786,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-1N751VCB,26/08/2023,20:14,2720,CANCELADA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HV3OKIVR,26/08/2023,15:59,265,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9I3EXDXG,26/09/2023,16:09,612,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ENVCXPSE,26/09/2023,17:36,1374,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Irma,Marquez,Ruiz,Barbados,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-15AS5LMA,26/10/2023,12:46,358,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-IQD65120,26/11/2023,18:52,1618,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-Z9KSHZW7,26/11/2023,14:44,1643,CANCELADA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-MOYC72YC,26/12/2023,17:33,1145,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-D1JWO0ZD,27/01/2023,15:03,2554,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-IQNR0SSM,27/01/2023,17:18,1928,CANCELADA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-IHKW1I9N,27/02/2023,15:59,2392,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-LJOZDEH3,27/02/2023,20:21,1745,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ETOO4IMN,27/03/2023,12:06,1649,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-IE3P6PA4,27/04/2023,19:00,1769,CANCELADA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OEP2T05W,27/04/2023,16:54,1368,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-W2LUYYDD,27/05/2023,20:12,2185,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-OUFY2RM3,27/06/2023,17:43,72,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ZKBMFJVP,27/07/2023,15:25,1013,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-362K41PY,27/07/2023,17:38,454,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-CK05CUF9,27/07/2023,10:49,2490,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HVF9S8V7,27/08/2023,09:56,1870,FALLIDA,España,Victoriano,Arregui,Ariza,Bulgaria,X5803759P,Federación de Rusia,24/09/1974,False,Prudencio,Arregui,Quevedo,Bulgaria,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-LT10EKGO,27/08/2023,05:59,972,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Alicia,Acero,Castellanos,Argentina,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-5073AAG9,27/09/2023,17:37,578,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-SDOJ3EIP,27/09/2023,21:42,379,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NCATBS20,27/10/2023,11:09,975,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-VF96F535,27/12/2023,11:37,253,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ERHFJHL1,27/12/2023,16:38,2436,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-ZV1YG830,28/01/2023,11:24,2659,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-NM7CBMT9,28/01/2023,17:39,1642,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-7AMRCFP1,28/02/2023,15:27,450,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-UFKC1C9Q,28/02/2023,14:31,1498,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-YV6DKHG6,28/03/2023,16:21,1212,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-8HMZN8LK,28/04/2023,11:06,633,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-SNOJ9SLC,28/07/2023,15:00,2535,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-E3EP7D16,28/08/2023,16:43,160,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-TN84O5ES,28/11/2023,21:36,384,EXITOSA,España,Aránzazu,Exposito,Fajardo,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-9VH0OURX,28/12/2023,17:54,437,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-X1GXDXP1,28/12/2023,20:04,457,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-E904J81X,08/06/2023,15:46,188,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Central,Beneficiario,,Italia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BOUUOI5Z,14/05/2023,15:00,164,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Central,Beneficiario,,Italia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-E87DPZVK,27/07/2023,18:56,14,EXITOSA,España,Alba,Acero,,Argentina,Z6861467C,Jordania,11/09/1962,False,Central,Beneficiario,,Italia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-BSE5JY1S,23/03/2023,20:31,64,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Central,Beneficiario,,Italia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-6UHC7LIU,03/11/2023,20:44,180,EXITOSA,España,Azahara,Español,Páez,Rwanda,ZZZAA274,República Dominicana,25/05/1925,False,Central,Beneficiario,,Italia,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-ACAB3,17/09/2023,21:28,1499,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-ABCBC,17/09/2023,21:28,1089,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-C3A22,17/09/2023,21:28,1409,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-B3C3C,05/01/2023,16:07,1294,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-AA221,05/01/2023,16:07,1234,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-AA1A2,05/01/2023,16:07,1482,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-AC2A1,17/10/2023,17:13,1237,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-C2133,17/10/2023,11:21,1019,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-31A1A,17/10/2023,11:21,1490,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-112C2,09/10/2023,21:56,1452,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-3BA12,09/10/2023,21:56,992,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-FRAC-A2CC3,09/10/2023,21:56,1330,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-YZ9YY,14/10/2023,12:43,2494,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-Y778X,14/10/2023,12:43,2742,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-9789Y,14/10/2023,12:43,2414,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-89X87,14/10/2023,12:43,2440,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-Y9XZ8,21/08/2023,19:55,2630,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-8XX89,21/08/2023,19:55,2480,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-798X9,21/08/2023,19:55,2193,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-87YX8,21/08/2023,19:55,2795,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-ZYZYX,27/11/2023,21:37,2082,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-9ZX7X,27/11/2023,21:37,2465,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-Y9ZY7,27/11/2023,21:37,2042,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-Y8XXZ,27/11/2023,21:37,2127,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-Y789X,27/11/2023,21:37,2257,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-ZZ99X,12/10/2023,16:34,2494,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-7Y8XX,12/10/2023,16:34,2973,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-977Y9,12/10/2023,16:34,2409,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-7Z7X9,12/10/2023,16:34,2885,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-7788X,19/12/2023,16:09,2232,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-XYZ98,19/12/2023,16:09,2904,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-X7YZ9,19/12/2023,16:09,2315,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-Y8YZZ,19/12/2023,16:09,2171,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,La Eliana,Sujeto_Obligado3,Agente10006,False
+TXN-HIGH-9ZZ7X,19/12/2023,16:09,2338,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,La Eliana,Sujeto_Obligado3,Agente10006,False

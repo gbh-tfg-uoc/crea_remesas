@@ -1,0 +1,750 @@
+﻿NUMERO_TRANSACCION,FECHA,HORA,IMPORTE,ESTADO_OPERACION,PAIS_ORIGEN,NOMBRE_ORDENANTE,APELLIDO_ORDENANTE,SEGUNDO_APELLIDO_ORDENANTE,PAIS_DOC_ORDENANTE,NUM_DOC_ORDENANTE,PAIS_NAC_ORDENANTE,FECHA_NAC_ORDENANTE,es_Agente,NOMBRE_BENEFICIARIO,APELLIDO_BENEFICIARIO,SEGUNDO_APELLIDO_BENEFICIARIO,PAIS_DESTINO,ENT_TOW_CIT_RES,ENT_COD_PAR_ENT,ENT_NAT_REF_COD,es_PEP
+TXN-QRVTA59H,01/01/2023,21:26,1616,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-N7WLTDSV,01/01/2023,05:53,1509,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LHV8I21O,01/01/2023,10:22,862,CANCELADA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8XJ8MX0S,01/01/2023,21:59,1947,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-N12PDIAS,01/01/2023,11:30,869,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2FEKJ9IM,01/01/2023,21:32,1242,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5L0NHI4S,01/02/2023,16:00,1752,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1XGHR8OC,01/03/2023,20:27,881,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RJ9ROOXQ,01/03/2023,13:31,2949,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-S6D865DE,01/03/2023,20:30,750,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IXT9TLKK,01/04/2023,11:46,1978,CANCELADA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-E8SW54JR,01/04/2023,21:54,490,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Pánfilo,Boada,,Kirguistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AVVNS9MY,01/05/2023,19:30,1003,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-USOUR00H,01/05/2023,18:10,1455,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Edu,Cardona,López,Grecia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8KZKTSEQ,01/05/2023,20:29,1721,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FDCEX985,01/06/2023,21:04,1264,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-SQC1UYN3,01/06/2023,19:16,1358,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KTRP9YDK,01/07/2023,21:51,2452,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5DUP1YI6,01/07/2023,15:41,2202,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NCOKEJAV,01/07/2023,07:33,694,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0J3RVRZJ,01/08/2023,20:24,222,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1N50YO40,01/08/2023,18:53,346,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UKQ6L272,01/08/2023,09:04,1677,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EGZCIAJN,01/09/2023,11:41,1301,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Y9IQ567D,01/10/2023,21:23,2691,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BHAWEWQ3,01/10/2023,11:02,506,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KULOI3LM,01/11/2023,14:51,122,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QTWBLLTV,01/11/2023,09:11,2698,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZS8808XD,01/12/2023,18:50,1293,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QJJP60GV,01/12/2023,13:32,423,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NXTHJLMR,02/02/2023,11:08,2108,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1DYNXG9U,02/02/2023,13:31,513,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8EWEZQUU,02/03/2023,18:55,1686,CANCELADA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Maricela,Badía,,San Marino,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CTF6BZF3,02/03/2023,12:50,1851,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-U44DE03T,02/03/2023,11:46,1528,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIV03KEW,02/03/2023,03:49,1399,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8UGFTAZC,02/04/2023,11:57,1899,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CWI2P9Z9,02/04/2023,12:52,818,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7PZ1LES0,02/04/2023,09:51,2446,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6J8M7SMY,02/04/2023,20:36,2686,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WIG2BYCV,02/04/2023,12:09,1560,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IZ5S9J8I,02/05/2023,19:23,769,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-34ZV7HZM,02/05/2023,20:33,2509,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WF4PUMH4,02/06/2023,15:54,2294,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WCA2FH1F,02/06/2023,12:44,1683,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-T31DRB8U,02/06/2023,10:11,1855,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BZ66DC8K,02/08/2023,12:00,1306,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-R55ZKQE8,02/08/2023,12:01,2478,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-61TI6I4E,02/08/2023,13:37,1301,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-D8TAINOT,02/08/2023,11:27,1260,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-N7KOW485,02/08/2023,11:47,2039,CANCELADA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2AAXMBIK,02/09/2023,09:02,1603,CANCELADA,España,Juan,Pizarro,Requena,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5774SZHY,02/09/2023,11:12,578,EXITOSA,España,Vera,Alberdi,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EG801OG2,02/09/2023,11:59,870,EXITOSA,España,Adora,Lillo,,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-L4Y0ZEAP,02/10/2023,18:19,933,FALLIDA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-26DDHBDX,02/11/2023,16:10,464,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LQG2HI43,03/01/2023,11:46,2133,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-TJUHH3UJ,03/02/2023,16:39,2715,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BAD2G6EE,03/02/2023,15:47,357,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9QN34IUK,03/02/2023,21:07,1214,EXITOSA,España,Selena,Grande,Ayuso,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-D0NNAGJS,03/03/2023,14:07,242,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-917R7OL9,03/03/2023,13:48,1633,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-O6GG8CGU,03/04/2023,20:04,575,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-N2QI9RCL,03/04/2023,16:36,2012,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,ZZZ3EF44,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-X8ZYO9M2,03/05/2023,16:42,1502,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZRP50DGC,03/06/2023,12:46,1447,CANCELADA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-H2HAFGVY,03/06/2023,15:29,1830,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-4AG7AGWK,03/06/2023,10:24,2847,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-65VG8NMS,03/06/2023,12:00,1317,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-R5MJZ79J,03/06/2023,18:15,1328,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-TLA0T417,03/07/2023,09:33,250,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FJCV3820,03/07/2023,15:43,377,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-SVBVZWSO,03/07/2023,15:03,163,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ERKPD5P8,03/08/2023,19:43,675,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-I0JJ096B,03/08/2023,19:30,1032,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KABZ6909,03/09/2023,10:36,1218,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Pepita,Chamorro,,Austria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NFJEFWSJ,03/09/2023,18:40,2737,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9MU23OEF,03/10/2023,16:56,2403,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IXBU6ZKJ,03/10/2023,16:28,188,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UV2T5PYQ,03/12/2023,21:44,2806,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VJVSHPPN,03/12/2023,15:53,2566,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8UEOQY2Z,04/01/2023,06:34,600,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Y4MX4LLF,04/01/2023,12:01,909,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1KI536X1,04/01/2023,11:46,441,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FXOUVC3V,04/02/2023,15:50,2011,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-PPBWXU4X,04/02/2023,19:01,1143,FALLIDA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IESGWA3B,04/02/2023,13:09,2073,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MU6D0YV5,04/02/2023,20:17,517,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2V36V5HN,04/02/2023,21:59,2785,EXITOSA,España,Adán,Casas,Castilla,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZMQ6PVO4,04/04/2023,11:12,1596,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UAT8GKGV,04/05/2023,10:40,2279,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VVTRLTBP,04/05/2023,20:00,561,EXITOSA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CNI5QE1O,04/05/2023,11:28,203,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Alicia,Acero,Castellanos,Argentina,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-R8ZBV4AQ,04/06/2023,10:23,238,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FLTPQV5V,04/07/2023,15:48,978,FALLIDA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-TIGUQR6M,04/07/2023,12:46,891,EXITOSA,España,Manola,Canals,Puig,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-N9Y2UUJI,04/07/2023,22:07,1626,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-44RRDGX1,04/07/2023,17:59,3000,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0L13F915,04/08/2023,14:53,1067,CANCELADA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GS8M95K0,04/08/2023,20:16,2225,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-W8A1WLVZ,04/08/2023,14:11,1724,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MLMONNSJ,04/09/2023,10:04,359,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NVVDOBI0,04/09/2023,11:40,2552,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-D758B2GQ,04/11/2023,15:16,1113,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6UY2KLRB,04/11/2023,20:38,904,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MZNENBOS,04/11/2023,19:21,2906,CANCELADA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GM1N9KAR,04/12/2023,02:16,1046,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-H94MOKFF,05/02/2023,21:02,1936,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8XOE58DP,05/02/2023,09:30,748,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZNYEQ860,05/03/2023,12:51,1940,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GWICL1MA,05/03/2023,18:17,579,CANCELADA,España,Damián,Quintero,Pareja,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MNC26M7D,05/04/2023,16:50,2222,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0B5OZU7G,05/05/2023,16:38,535,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AXFSHSX7,05/05/2023,21:24,2058,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EB0R40X1,05/05/2023,09:10,2970,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AOS6UK9O,05/05/2023,11:56,2707,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BUKJUPQA,05/05/2023,10:07,78,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QU6U6C07,05/05/2023,13:32,1487,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0GGS0M62,05/06/2023,15:20,1477,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Wilfredo,Montero,Valle,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-D72LVUST,05/07/2023,20:21,2993,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AO5HM47W,05/07/2023,15:03,2059,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-72G07191,05/07/2023,22:34,349,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8LG3XANO,05/09/2023,21:38,1488,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CPVWYBDJ,05/10/2023,21:51,63,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9DF8MI0V,05/10/2023,17:48,3000,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-3VMAQBNM,05/10/2023,21:44,1090,FALLIDA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-DEB2B544,05/11/2023,17:50,1732,FALLIDA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WSFZ8RB2,05/12/2023,10:32,2954,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RG8OWHIM,05/12/2023,09:43,1087,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MX0L91KC,06/01/2023,23:19,2247,EXITOSA,España,Javiera,Torres,Hoyos,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CHGFNZCT,06/02/2023,16:41,681,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-DEY8TFPX,06/02/2023,09:04,2713,CANCELADA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OE4RSS5H,06/03/2023,12:15,2267,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NPRCF3UU,06/03/2023,13:29,916,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9AF6J119,06/03/2023,20:43,217,FALLIDA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EFL7XOAO,06/03/2023,21:56,1435,CANCELADA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XGN4LU75,06/04/2023,19:53,549,CANCELADA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QR5MV2OX,06/05/2023,18:34,1181,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-L7ZBIMUH,06/05/2023,10:10,2614,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-3DMPF9FF,06/05/2023,18:28,1684,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5TFES5H9,06/07/2023,16:44,2450,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CPF1XYK9,06/09/2023,17:41,1601,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KNABMMGJ,06/09/2023,16:38,1195,CANCELADA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VWVQVG24,06/09/2023,14:29,356,CANCELADA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8COHQHDH,06/10/2023,14:14,511,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-V485ADUS,06/10/2023,15:38,231,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-I0KU53QD,06/11/2023,00:04,1752,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MT55LVC2,06/11/2023,12:57,1555,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-66KTU7NU,06/12/2023,10:38,529,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KR6BEIGR,06/12/2023,17:55,2586,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FCUSKNCG,06/12/2023,09:45,1519,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5RCH2TX4,07/01/2023,20:06,333,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CGVDWLVM,07/01/2023,06:30,2213,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-TWLEZ6KH,07/02/2023,16:50,262,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8SD559JT,07/02/2023,16:55,993,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-TGSW2UYO,07/03/2023,09:03,2340,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CNDIUUSO,07/03/2023,13:57,1992,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VUHOGQQU,07/04/2023,21:04,665,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YEKV9G1X,07/04/2023,20:48,676,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-TCXKY802,07/04/2023,17:42,2831,FALLIDA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-535RV85F,07/04/2023,14:37,2884,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7BVI3P4F,07/05/2023,20:37,1105,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EIGQ5CPH,07/05/2023,10:35,240,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-W82UUGJO,07/05/2023,20:37,183,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KQ95RMLA,07/06/2023,14:29,276,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Fidel,Blazquez,Calderon,Rwanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9FFLYJDY,07/07/2023,20:20,1930,FALLIDA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-X32307CA,07/08/2023,17:44,141,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-22363M8E,07/08/2023,16:47,2821,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XA1PCW0K,07/08/2023,14:58,1428,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XEL3LPM9,07/10/2023,15:53,2920,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IAO8HKX0,07/11/2023,19:12,98,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9N9MBQFD,07/11/2023,01:17,867,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GWXPRZ7C,07/12/2023,13:54,659,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1UZTMKHL,07/12/2023,17:25,1839,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JF5OXDUH,07/12/2023,12:41,1907,EXITOSA,España,Elisabet,Murillo,Sastre,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-S3J61FZ5,07/12/2023,20:47,840,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-P1PYLNZA,08/01/2023,04:34,1598,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-12CE41O4,08/02/2023,12:50,180,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-86HYOGQW,08/02/2023,12:51,650,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5JH95J69,08/04/2023,20:01,1831,CANCELADA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Z4BZDC0I,08/04/2023,20:20,1544,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MYQGNWNI,08/04/2023,17:13,2263,CANCELADA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-522AT93V,08/05/2023,10:04,2481,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1DD8THI3,08/06/2023,20:31,332,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RCLAEAG4,08/06/2023,09:55,564,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QOQYRRZ1,08/07/2023,20:04,2614,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FX5TEHOA,08/08/2023,20:24,2474,CANCELADA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BWLCNST3,08/09/2023,21:04,2867,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9VCHRN1Z,08/09/2023,11:04,1049,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-B0M2FPHV,08/09/2023,11:54,526,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,False,Eliana,Rosales,Frutos,Dominicana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-C0HPJM21,08/11/2023,19:56,2330,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Victorino,Atienza,Nevado,Sierra Leona,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-84AJKJDH,08/11/2023,20:42,1942,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NHYQWTC1,08/12/2023,13:18,2035,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2MGQW8NH,08/12/2023,13:46,1787,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BDJJXOTZ,09/01/2023,16:56,1880,FALLIDA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UHJ4NQFY,09/01/2023,21:58,1116,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0EVG97YH,09/01/2023,10:45,2500,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-72JENTJ4,09/03/2023,21:54,2145,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MIVZW6IP,09/03/2023,18:54,2637,CANCELADA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5LY9MXYJ,09/03/2023,16:51,2716,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RMUZ8GOR,09/04/2023,16:35,1084,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-K1I8756O,09/04/2023,12:24,930,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-D1N3JY25,09/04/2023,10:53,463,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,ZZZ32B59,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BBZPMH79,09/04/2023,15:34,2410,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OU0CT0RA,09/05/2023,10:40,2490,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Isidora,Torres,Mateos,Angola,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NPF6QGMZ,09/05/2023,19:10,1236,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Valero,Marin,Puig,Sierra Leona,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BVMKVGTB,09/05/2023,12:52,2746,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QGFWGHCJ,09/06/2023,20:04,2255,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VD2HI43Z,09/07/2023,10:31,54,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UP6QOFP9,09/08/2023,19:11,2051,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-T09BQ7BT,09/08/2023,17:14,515,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LVMUVB5G,09/09/2023,18:18,375,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GQFE0NQL,09/09/2023,09:57,2241,EXITOSA,España,Toribio,Barranco,Vallés,Kiribati,Z9151407B,Bahrein,10/11/1917,False,Gema,Barranco,Borrell,Kiribati,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CS9NP6S4,09/09/2023,21:00,1710,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-DYDWWZCO,09/09/2023,20:29,1094,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2SLF4776,09/11/2023,18:50,633,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-24T2404R,09/11/2023,19:40,154,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Manuelita,Bauzà,Cases,Alemania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-N54PG3AB,09/11/2023,01:56,2826,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9R8JZXSP,10/01/2023,15:38,1813,EXITOSA,España,Encarnacion,Villalobos,Cervera,Guyana,ZZZ5FFB5,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0ISSH39O,10/01/2023,12:46,1899,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,True,Miguel Ángel,Campoy,Rivera,Togo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-O8ZP072R,10/01/2023,20:51,450,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FP6XZO9B,10/02/2023,17:03,2947,EXITOSA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5XW0WI1K,10/02/2023,19:59,2988,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YOTOT232,10/02/2023,11:34,819,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-27A8HKP9,10/03/2023,18:47,885,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CVUW2QBM,10/03/2023,12:32,2718,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6ANK2FAY,10/03/2023,20:11,2943,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-T4H77A4D,10/04/2023,17:44,2928,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Martin,Guillen,,República Federal Democrática de Nepal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-TPBH763K,10/04/2023,10:54,2247,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JGVDIBIP,10/04/2023,10:26,2291,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-G0ZM29CF,10/05/2023,21:28,2495,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-45YA9WCI,10/05/2023,11:02,2410,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-94XN5KBL,10/06/2023,17:06,2059,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-I48Y9ER8,10/06/2023,13:04,2379,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8H6SYE9Y,10/07/2023,20:59,2881,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5NZOOBCM,10/07/2023,12:12,2528,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ARERBAQV,10/07/2023,09:25,382,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2TVJ5I2K,10/08/2023,18:53,800,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-N7HFR8R0,10/08/2023,11:30,762,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-80MJJRKL,10/08/2023,14:07,2515,FALLIDA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NF9Q15L6,10/10/2023,14:56,2201,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Q08XJDDY,10/11/2023,18:42,559,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KPJ2UHW0,10/11/2023,12:41,1686,EXITOSA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KQTNJ2JF,10/11/2023,14:23,315,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WM59XXCL,10/12/2023,15:47,2316,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5P28FCZC,11/01/2023,17:48,717,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-R9ZK0HOU,11/01/2023,14:12,1487,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BRH0TSSX,11/02/2023,19:12,1052,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-A970CQ4R,11/02/2023,20:55,2109,EXITOSA,España,Matilde,Armengol,,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-B8ZNI1H9,11/03/2023,17:57,2653,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-J59GRHX0,11/03/2023,10:07,1346,EXITOSA,España,Serafina,Carballo,Cortina,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-E0QLU8RH,11/03/2023,12:11,2133,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-O3XUFQ3N,11/03/2023,14:48,2249,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OBOHHLKE,11/04/2023,14:58,417,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-N3PIMAWH,11/04/2023,18:02,318,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LP5G7AQM,11/05/2023,17:32,2807,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Miguel Ángel,Castañeda,,Líbano,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Z439KIM1,11/05/2023,20:33,1277,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BZBSI3JY,11/06/2023,18:31,2291,EXITOSA,España,Octavio,Rosales,,Chipre,ZZZE11C9,Uganda,16/04/1918,False,Geraldo,Amat,Soriano,Samoa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2YZSX2HE,11/06/2023,19:51,2357,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ABR2IH5V,11/06/2023,13:51,880,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-SU7WXS88,11/07/2023,17:08,2719,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-76UBRKCA,11/08/2023,15:58,2060,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,True,Miguel Ángel,Campoy,Rivera,Togo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-U9ZKHXPR,11/09/2023,16:15,828,EXITOSA,España,Delfina,Luque,Núñez,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-SSH1NIQ8,11/09/2023,11:30,481,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YNVVVBC3,11/10/2023,10:15,1170,EXITOSA,España,Hermenegildo,Piquer,Valverde,Chile,Y5580012L,Estados Unidos de América,04/08/1915,False,Virgilio,Piquer,Cerezo,Chile,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-T7BXGNUJ,11/10/2023,17:07,946,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QXUKPG3E,11/10/2023,16:01,343,CANCELADA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8ILIR71U,11/11/2023,15:54,2737,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-X25J4Y24,11/11/2023,19:13,2025,FALLIDA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1LYBCHPW,11/12/2023,18:30,1848,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AC47XZXU,11/12/2023,10:09,508,EXITOSA,España,Heriberto,Pla,Pazos,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-09L7BAFW,12/01/2023,16:45,2052,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UA8M27TA,12/01/2023,11:47,2876,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Amada,Aguilera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-3QFC7GJJ,12/01/2023,01:17,2318,EXITOSA,España,Valentín,Sancho,,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FBNUCI1N,12/01/2023,15:20,187,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AE2QKG01,12/03/2023,15:29,2329,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6T0L7SIV,12/03/2023,21:54,1122,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YZ59ZWY7,12/03/2023,13:06,1960,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UKWDWPJ3,12/04/2023,13:54,1783,EXITOSA,España,Carmelita,Herrera,Morán,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AJCLR5ED,12/04/2023,15:13,319,EXITOSA,España,Anastasia,Ariza,Gomis,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-S9NMH2PS,12/04/2023,21:53,2049,CANCELADA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-G2HPWMW2,12/04/2023,11:05,291,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EZO6HWPX,12/05/2023,20:44,189,EXITOSA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GF0D41MZ,12/05/2023,13:34,2115,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Y2KGJXY3,12/06/2023,13:09,568,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GGBAQ1O4,12/07/2023,08:24,2664,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-F0C8DMXG,12/07/2023,13:27,937,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,La Mojonera,Sujeto_Obligado10,Agente437,True
+TXN-H8E5QYFM,12/09/2023,14:12,2834,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HTFNYWAO,12/09/2023,13:48,2529,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JT52AAQF,12/10/2023,15:20,2887,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KOWHXVNI,12/11/2023,19:07,2889,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-R87ZNAGY,12/12/2023,10:27,2575,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HQB0BFA8,12/12/2023,14:32,2541,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Irma,Andrade,Pereira,Brasil,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JKDOD772,12/12/2023,14:20,403,EXITOSA,España,Joel,Peñas,Amorós,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FCIQA2TW,13/01/2023,19:27,2934,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-PYW0UULG,13/01/2023,06:29,2308,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-F2XHE2ZQ,13/02/2023,19:35,582,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-L0OFQHXS,13/02/2023,21:25,1998,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Eduardo,González,Mir,Italia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-V7TLQPPZ,13/03/2023,11:42,1710,FALLIDA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OQISGT3M,13/03/2023,18:17,1819,EXITOSA,España,Rosario,Santamaría,Lladó,Bahamas,X7941699Y,Líbano,21/08/1990,False,Adelardo,Santamaría,,Bahamas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Y46HGYDH,13/04/2023,21:34,1125,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-O2Z3MRY9,13/05/2023,11:49,1737,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CE94FZJ3,13/06/2023,15:30,1502,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZLXAHV45,13/06/2023,19:36,1876,CANCELADA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HFHDQRZA,13/06/2023,11:03,722,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5YO94AWD,13/07/2023,10:45,2775,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XFQF4P8D,13/07/2023,13:47,916,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XCEMEN3Y,13/08/2023,15:45,325,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-4SV4JBPB,13/08/2023,10:18,446,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6UZ3DS2S,13/08/2023,13:27,556,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-O3YK2C26,13/09/2023,09:47,1954,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-K5Y5REN0,13/10/2023,15:58,545,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-578RNX3T,13/11/2023,20:29,691,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XHXWQ80S,13/11/2023,15:28,2218,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XMDJIW6T,13/11/2023,21:22,1058,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JZHH1SU5,13/11/2023,11:12,141,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OVEFX2ED,13/12/2023,20:26,2562,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YYJW1R6M,13/12/2023,09:26,1323,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-C1QN9OHB,14/01/2023,18:53,689,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YV64EL3F,14/01/2023,19:58,833,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-K94HWDMB,14/02/2023,18:28,1145,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OUBEKSXQ,14/02/2023,12:28,2413,CANCELADA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Daniel,Aranda,Coll,Zambia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9XJQNZ2V,14/02/2023,18:33,2948,FALLIDA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RWSNL6JD,14/02/2023,15:42,1663,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IZD1J4U3,14/02/2023,15:02,1364,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,ZZZ0CC45,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UZWBAUO6,14/03/2023,18:23,1984,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Z6BZUL2Y,14/04/2023,17:30,81,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AFWM96D4,14/04/2023,15:05,613,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XMOJW3NE,14/05/2023,12:03,1012,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QSAMMWE9,14/05/2023,18:50,316,EXITOSA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GB1RHIDJ,14/05/2023,17:43,1831,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-V5SYJUVL,14/06/2023,19:08,1420,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-07H3THF4,14/06/2023,11:54,857,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QQRGMEAE,14/06/2023,11:24,2936,CANCELADA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1FGDTRDE,14/06/2023,21:09,714,FALLIDA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OQ6OWM7G,14/07/2023,18:23,2424,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-W0T0PY7T,14/07/2023,18:49,397,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KN49F55Y,14/08/2023,18:44,1070,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XD1XBH5P,14/08/2023,21:04,2077,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Tere,Canales,Agullo,Marruecos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WMKB9YNN,14/09/2023,00:40,113,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZA7G93VA,14/09/2023,21:45,1777,FALLIDA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-T0JQ42CO,14/09/2023,21:11,2535,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZOQGN96H,14/09/2023,18:51,1159,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-P5AORVMN,14/10/2023,13:21,2239,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0D8L74HE,14/10/2023,15:32,2680,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8YWTP7PL,14/10/2023,20:13,1739,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ON67BIBS,14/10/2023,21:49,1619,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-X7WUW3VS,14/10/2023,19:44,1720,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZWGZR5XG,14/12/2023,17:29,868,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KJ90C8AF,14/12/2023,09:30,580,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-059SB9MA,15/01/2023,10:14,2832,CANCELADA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-5S2QSJAF,15/02/2023,01:33,1211,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HAQVQYVO,15/02/2023,19:01,1804,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-55GYGRST,15/02/2023,21:29,650,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YH7SAUU6,15/03/2023,14:04,1788,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2K6LMYC1,15/03/2023,13:48,2942,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-22PKHJBA,15/04/2023,21:42,1121,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-X4DC52KG,15/05/2023,07:22,589,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-3QGKHONK,15/06/2023,20:15,1390,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2L43OVDG,15/06/2023,21:20,1029,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-PXI2WKUQ,15/08/2023,10:23,706,FALLIDA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-N5FTEI87,15/09/2023,21:08,1171,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UA0I53M5,15/09/2023,09:53,2115,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XJZZLPNV,15/09/2023,09:09,261,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8LJQWF2R,15/09/2023,15:16,2284,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1ZT273MX,15/10/2023,12:59,2043,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YZGE0KFS,15/10/2023,21:04,2570,CANCELADA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ENTCZO39,15/10/2023,11:36,2490,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MP7TFNKA,15/11/2023,11:34,901,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JDDM98JM,15/12/2023,10:54,2658,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EWRZ1HYF,16/01/2023,19:31,527,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-4RMDIX74,16/02/2023,19:20,2545,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-S2NYNXP1,16/02/2023,21:09,2418,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WZG070JD,16/03/2023,09:14,1105,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BGBGHWDL,16/03/2023,19:34,319,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7NKRNJ0L,16/04/2023,17:14,118,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRINUSYI,16/04/2023,10:04,1953,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WJQIVCJH,16/04/2023,18:34,449,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IJG1RHIS,16/05/2023,23:40,868,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OU8DSC7O,16/05/2023,21:04,1791,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-T852087N,16/05/2023,09:44,74,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KKLOZYGZ,16/06/2023,14:42,1831,FALLIDA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-70XB3LC6,16/06/2023,15:59,1865,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-M9N1NZDY,16/06/2023,10:43,796,FALLIDA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CEE4DELK,16/07/2023,20:36,2111,EXITOSA,España,Cirino,Riera,Adadia,Cuba,Y2149161D,Chile,27/11/1992,False,Teófilo,Riera,Garcés,Cuba,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GWRVKELC,16/08/2023,12:47,1854,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8K3MS877,16/08/2023,19:02,1194,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7A1YXG2Z,16/09/2023,16:58,142,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-W8Y3MGYI,16/09/2023,11:24,1309,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-22K88EKF,16/09/2023,10:55,921,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-T46Y5P5N,16/10/2023,09:25,1454,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XVWF8672,16/10/2023,14:37,2806,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-S3DQCMD9,16/11/2023,18:01,2796,CANCELADA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Kike,Nogués,Montaña,Kenya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WOK3462R,16/11/2023,12:21,2564,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-E96PE07F,17/01/2023,15:27,1420,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LZ2XQEDI,17/01/2023,14:53,1499,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-4UUDU3RQ,17/03/2023,16:48,418,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Q7TETB87,17/03/2023,20:09,1909,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LOCSEKOX,17/03/2023,07:01,109,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-PC0O28AP,17/03/2023,13:51,642,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7JX6BGIN,17/04/2023,09:06,931,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RTDVQCN0,17/06/2023,18:37,2906,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LAOBIAZY,17/06/2023,22:15,412,EXITOSA,España,Teresita,Rovira,,Italia,Y6091153P,Burkina Faso,01/06/1909,False,Vicente,Solera,Roman,Mauritania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7CW5MOQO,17/06/2023,12:12,800,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-M258564H,17/06/2023,16:39,198,EXITOSA,España,Manu,Prat,Valderrama,Gabón,ZZZCC6CC,Georgia,22/08/1953,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7KNZI026,17/07/2023,09:23,2162,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6FPJ69WD,17/07/2023,13:08,1205,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OEYFEFTW,17/07/2023,15:20,2456,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HNGJQXFR,17/08/2023,09:06,1360,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HW6UAQ9R,17/08/2023,09:12,410,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7CJYKX8P,17/09/2023,18:19,1020,EXITOSA,España,Sonia,Morcillo,Leiva,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-295UZ6BZ,17/10/2023,10:25,1335,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6EMRDQNM,17/10/2023,12:33,1467,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-I8IQN4SQ,17/10/2023,18:15,1783,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KEPUBYAN,17/10/2023,12:26,1555,CANCELADA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NKUN1CMP,17/12/2023,09:55,2452,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0MJE7SGJ,17/12/2023,19:43,454,EXITOSA,España,Aroa,Mínguez,Yáñez,Mongolia,Y8214026G,Jamaica,07/02/1996,False,Amador,Perelló,Barberá,Vanuatu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WB381I7W,18/01/2023,21:22,2314,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GJQERLRD,18/01/2023,06:58,473,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-SAQMHXMA,18/01/2023,15:35,799,CANCELADA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MN8GA0KJ,18/02/2023,12:53,397,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IS95CQZM,18/03/2023,00:11,139,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JYAK9QMX,18/03/2023,19:36,1781,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-SR20TLEP,18/04/2023,15:05,57,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0H97KSKR,18/06/2023,17:18,1239,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2ESJQ8VY,18/07/2023,18:32,329,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IG1XQ4BN,18/07/2023,17:25,2259,CANCELADA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Severino,Calatayud,Moles,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Y58JC70Y,18/08/2023,13:45,732,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Z6108NCB,18/08/2023,18:51,1777,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RQAA2LTS,18/08/2023,12:57,832,CANCELADA,España,Andrés Felipe,Llanos,Torres,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Manuela,Redondo,Bárcena,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HJDQB6WH,18/08/2023,21:40,2161,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2TP3FQKJ,18/09/2023,10:34,2870,FALLIDA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7OC6S76Y,18/09/2023,13:25,1978,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RCNL2A2K,18/10/2023,13:19,1252,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-4D5WTFV6,18/11/2023,10:13,971,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8X0HCNPM,18/11/2023,20:58,783,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-K6292BMV,18/11/2023,12:23,2188,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ALG32LP7,18/11/2023,16:28,904,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7LKYGIVI,18/12/2023,17:00,1331,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0MD206YV,18/12/2023,14:57,1998,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-P6WMY0HS,19/01/2023,08:10,1370,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-998X3RRE,19/01/2023,14:35,2575,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AE0Y9SR4,19/01/2023,19:02,755,CANCELADA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,True,Miguel Ángel,Campoy,Rivera,Togo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9QLXKLK5,19/02/2023,15:38,2454,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WG70EJE9,19/02/2023,10:19,1389,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WROI1JA8,19/03/2023,20:34,987,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ISGO7TVR,19/03/2023,12:04,1637,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-81SS8T7Z,19/03/2023,17:32,1976,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Nando,Conde,Campo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-M3LGWZ8D,19/03/2023,17:35,2636,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2PN8A9YK,19/03/2023,15:33,2380,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-TKCF154C,19/03/2023,19:16,1534,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LLNI2WUA,19/04/2023,18:54,726,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-H9HJPTWK,19/05/2023,15:36,2324,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Eusebia,Rico,Gilabert,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-DX8FLM5F,19/06/2023,19:40,1846,EXITOSA,España,Carmen,Barberá,,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-T4TLOPCA,19/07/2023,11:07,549,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-F6QOD35E,19/09/2023,11:46,757,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QT3ZA9MO,19/09/2023,18:53,698,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,ZZZFF928,Namibia,01/05/1998,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ELMXN262,19/10/2023,15:07,1703,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-I2H617J0,19/10/2023,09:33,405,EXITOSA,España,Rodolfo,Fabregat,Duran,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IRNHI2B6,19/12/2023,09:24,1992,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GMF1CRC3,19/12/2023,15:34,894,EXITOSA,España,Jeremías,Aguiló,,Botswana,ZZZ8F500,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0IP86134,20/01/2023,05:12,362,EXITOSA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-J934YCO2,20/01/2023,20:00,905,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-64IFQTPD,20/01/2023,10:46,883,FALLIDA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0T79WPT7,20/02/2023,18:16,1160,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-DT73SGNV,20/02/2023,14:49,1943,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KHB4WG1B,20/02/2023,10:55,472,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-E9QD6PQE,20/04/2023,12:27,329,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LMG1NLLX,20/04/2023,16:12,120,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0LP9NTHN,20/05/2023,17:32,2800,CANCELADA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-D141OWGM,20/05/2023,17:02,923,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UY3PKQ7R,20/07/2023,14:36,1974,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ODHE79ON,20/07/2023,18:53,2373,FALLIDA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-133ZQ7QO,20/10/2023,14:19,864,CANCELADA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YOXWW5H4,20/10/2023,09:29,1090,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NN3PLD2F,20/10/2023,13:19,960,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0SS1YD2K,20/10/2023,13:41,2669,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-K97ECYZV,20/10/2023,19:15,1314,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VDW3U1US,20/11/2023,17:53,464,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,La Mojonera,Sujeto_Obligado10,Agente437,True
+TXN-YFB0GU5Q,20/11/2023,11:55,977,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FR6KFSAB,20/11/2023,09:21,1023,EXITOSA,España,Encarnacion,Arias,Nogués,Lesotho,X9658091T,Libia,19/10/1995,False,Asunción,Arias,Jiménez,Lesotho,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9ZW76T0C,20/12/2023,09:24,2714,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-54M5YS6Z,20/12/2023,11:30,2764,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-INRRGD1O,21/01/2023,18:12,113,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Begoña,Nadal,Asenjo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EALGV2TM,21/01/2023,15:46,463,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AX1HOABK,21/01/2023,19:11,635,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-3K3QCMI3,21/02/2023,14:58,775,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KP2JC21C,21/02/2023,16:27,2338,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9R62KIOV,21/02/2023,15:18,1602,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KGXOUNEL,21/03/2023,11:35,1060,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZPNISTGG,21/03/2023,20:53,1132,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UD1DDV9Q,21/03/2023,15:23,674,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XF8KSC4L,21/05/2023,21:16,635,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-F7MPBJ5P,21/06/2023,13:26,2333,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6SLPYADW,21/06/2023,13:15,1118,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VXXC7CH1,21/07/2023,09:53,1420,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WQGUDHIP,21/09/2023,12:13,1658,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-77FL3JND,21/10/2023,16:52,2430,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VDGNE7KV,21/10/2023,09:10,1947,EXITOSA,España,Julio César,Figuerola,Sotelo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LP1FM9V9,21/11/2023,12:38,273,CANCELADA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NB7RZ5DX,21/11/2023,17:22,220,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QLBRP0U9,21/12/2023,18:52,2275,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QA1Y42C7,21/12/2023,12:55,2557,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1SLRQPUC,22/01/2023,02:44,2109,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-E2BPEC6R,22/01/2023,19:15,2593,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-SLBOUHB9,22/01/2023,09:01,365,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LX5GBC5H,22/01/2023,16:00,1573,EXITOSA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-DQNODIG8,22/01/2023,11:51,987,FALLIDA,España,Ruy,Diez,Casas,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-93UJGGE1,22/03/2023,18:30,2310,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7SA279OQ,22/03/2023,20:07,903,CANCELADA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-DZPZY2PQ,22/03/2023,18:47,2187,EXITOSA,España,Édgar,Criado,,Suiza,X4483905D,Burkina Faso,25/12/1938,False,Adriana,Criado,Blázquez,Suiza,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-807H75WO,22/04/2023,18:25,1266,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AP2TYW6Z,22/04/2023,19:53,2804,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-4PMWOH4B,22/04/2023,13:50,1364,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GWCNARFS,22/05/2023,09:27,650,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-55PV4KUZ,22/05/2023,18:40,2252,EXITOSA,España,Cruz,Cases,Blanch,Pakistán,Z5346143M,Letonia,08/08/1949,False,Juanita,Cases,Jáuregui,Pakistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-S20OCZZY,22/06/2023,12:17,828,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IV1FKYKD,22/07/2023,16:51,1795,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-3P2GVOVM,22/08/2023,10:44,1067,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OY6A4HAV,22/08/2023,18:39,1427,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-54A6GIQZ,22/08/2023,16:38,137,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Y0FQQCTR,22/08/2023,09:44,157,EXITOSA,España,Aitana,Nicolau,Bayón,Tuvalu,X1330196Z,Islandia,13/01/1914,False,Cayetana,Nicolau,Vives,Tuvalu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-H63YCRO2,22/09/2023,16:05,604,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-K9PMY1XO,22/09/2023,14:08,1904,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MFX3B5Z3,22/09/2023,17:56,70,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VEQHVGUB,22/09/2023,21:35,1474,EXITOSA,España,Claudio,Montero,Alcázar,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-TEY09XJT,22/09/2023,16:25,1889,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AAWYO4QI,22/09/2023,01:30,1242,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-E8MQL1XX,22/10/2023,20:09,1843,EXITOSA,España,Salomón,Montalbán,Téllez,Irán,X3971956V,Líbano,03/08/1980,False,Estrella,Montalbán,Uría,Irán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IAY0TCAL,22/10/2023,16:30,2825,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XT5Y960D,22/10/2023,15:59,1138,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-B07D3J2K,22/11/2023,14:22,352,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-D8ON9IY6,22/11/2023,20:04,224,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KU5QN2AL,22/11/2023,11:57,578,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-3ESRX8B0,22/11/2023,13:00,2676,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VVTUE524,22/11/2023,13:52,2542,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ESL1QHAS,22/11/2023,13:14,502,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2T4KW34B,23/01/2023,09:16,1448,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-PQPXG1I9,23/01/2023,10:00,1555,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7JGZ0CSS,23/02/2023,18:48,766,EXITOSA,España,Marciano,Prats,Ferrera,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NJXD5H6S,23/02/2023,10:28,1367,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KFAVL6SF,23/02/2023,12:21,2313,EXITOSA,España,Cecilio,Antón,Serra,Congo,X8493853E,Guinea,21/07/1910,False,Albert,Antón,Terrón,Congo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XP33Y4N8,23/02/2023,00:32,1619,FALLIDA,España,Fulgencio,Manzanares,,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-G2K7T92Q,23/05/2023,14:59,2158,EXITOSA,España,Teodora,González,Escrivá,Italia,X8719809A,Uzbekistán,17/12/2021,False,Eduardo,González,Mir,Italia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-POS4LLUD,23/05/2023,19:10,2875,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-SG23YN6F,23/05/2023,17:54,2191,EXITOSA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6H0CQE66,23/05/2023,18:18,2816,CANCELADA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Tristán,Santos,Priego,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-3S8H9OWG,23/05/2023,18:52,2044,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RTIM0IPO,23/06/2023,09:13,2778,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BKUHUTXN,23/06/2023,17:31,861,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-L4QXNMYS,23/07/2023,21:19,212,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BGDZ0KJM,23/07/2023,13:41,1570,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Manuel,Soria,,República Popular Democrática de Corea,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7Q0ZPJ4J,23/07/2023,19:44,1374,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0B7CHIGH,23/07/2023,11:49,1467,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UL3MCKQR,23/07/2023,19:36,1046,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9VR6E164,23/07/2023,14:59,1860,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EIVTBV37,23/08/2023,14:49,2159,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-41XV8XTQ,23/10/2023,13:25,2574,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8E9YECKQ,23/10/2023,15:57,938,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0THFKIWV,23/10/2023,15:50,436,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HJNJIWIL,23/10/2023,17:30,2917,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YF3A02R7,23/11/2023,17:12,1109,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-A316OLLF,23/11/2023,11:35,1948,CANCELADA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8M035T5C,23/11/2023,19:54,65,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-G78OHQKS,23/11/2023,10:32,900,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EWEOW4BO,23/11/2023,09:36,1213,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-P6GF3ZLL,23/12/2023,20:34,1989,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2JVQEC9W,23/12/2023,09:44,2797,EXITOSA,España,Paco,Burgos,Sanmartín,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WV407HEL,24/01/2023,12:24,1769,EXITOSA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0286WTQ1,24/03/2023,15:04,1867,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JZYV5Y9V,24/04/2023,05:30,1720,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7CFEU55L,24/04/2023,11:25,1393,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OAHDQ4K5,24/04/2023,09:19,2165,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9PRJR24U,24/05/2023,11:04,1728,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0OV785JD,24/06/2023,20:57,2908,FALLIDA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-QERVVKBK,24/06/2023,21:44,2921,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CXZLCAOY,24/07/2023,16:15,1807,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AS9R6SAS,24/09/2023,07:18,1458,EXITOSA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-T55UDWLJ,24/09/2023,19:47,770,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JAC4H2OO,24/09/2023,10:25,1098,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HM6UJM6N,24/10/2023,14:40,2302,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6HKZHAB4,24/11/2023,11:09,745,FALLIDA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VU4FVXBK,24/11/2023,15:34,2885,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0PK6CJY2,24/11/2023,18:40,2773,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-SJ3MCQZ0,24/11/2023,05:40,230,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6ACYPT94,24/11/2023,12:55,2356,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-V0RSOEBT,24/11/2023,20:01,701,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UVRS1GLB,24/12/2023,18:41,1928,CANCELADA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-0F8JBMFW,25/01/2023,19:17,1582,CANCELADA,España,Nazaret,Arcos,Conesa,Bélgica,X8671622R,Federación de Rusia,19/07/1959,False,Nicolasa,Arcos,Bou,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1PREPSE7,25/02/2023,18:23,2883,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Q7XQNR67,25/02/2023,18:01,1138,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LP3ZM4NG,25/02/2023,21:05,2262,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-AMTAFYEQ,25/03/2023,14:42,872,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YO1BFSMI,25/03/2023,19:39,332,CANCELADA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JLT2JC6J,25/03/2023,17:58,2352,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-M6QM7YAG,25/03/2023,18:58,2851,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WLIW9DKC,25/04/2023,22:51,2992,EXITOSA,España,Ani,Villalonga,Barba,Georgia,ZZZE9442,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Y57TEU7L,25/04/2023,16:16,2464,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FS36MYWL,25/05/2023,01:54,94,EXITOSA,España,Alcides,Asenjo,Morillo,Yemen,X7523834M,Sri Lanka,11/11/1924,False,Martin,Asenjo,Colom,Yemen,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZIP8N1O7,25/05/2023,14:17,93,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-08TVF0ZC,25/06/2023,14:01,1378,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-SKC9R8T7,25/06/2023,14:28,624,CANCELADA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-OXFWU5K7,25/06/2023,15:17,2992,EXITOSA,España,Celestino,Rincón,Lucena,Líbano,Y7546912M,Belarús,19/01/1933,False,Iván,Rincón,Mariscal,Líbano,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-C3O5HFM2,25/07/2023,13:25,1259,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GYWUQLD1,25/08/2023,13:07,261,EXITOSA,España,Salomón,Cobo,Bertrán,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-71D95SLI,25/08/2023,11:25,629,CANCELADA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-PTRC81PY,25/09/2023,13:02,1844,CANCELADA,España,María,Olivera,Collado,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1VEO9T2N,25/09/2023,21:01,2366,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MFINZGUH,25/09/2023,14:16,2201,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XWSACTYL,25/09/2023,14:53,2383,EXITOSA,España,Isidro,Ríos,Pascual,Filipinas,X9708573C,Omán,07/10/1961,False,Óscar,Ríos,Villa,Filipinas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-1S6NLYGT,25/10/2023,08:01,2971,EXITOSA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8I42NA0Z,25/10/2023,16:07,2202,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-G9PUOLET,25/11/2023,18:42,593,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-M7UWJYPB,26/02/2023,18:19,2599,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8KCTID40,26/02/2023,20:30,1749,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-PCUIQZQZ,26/02/2023,20:13,988,EXITOSA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NZ4T2O6J,26/04/2023,12:35,2138,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BYV3FFZV,26/06/2023,14:32,198,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-X9TJGD1X,26/06/2023,13:22,977,EXITOSA,España,Noemí,Blázquez,Rius,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,True
+TXN-RVMXOSWJ,26/07/2023,12:46,784,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-IZA6PWRW,26/07/2023,15:38,1214,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-W66M5NRI,26/08/2023,20:55,2542,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-4KG4KY4G,26/08/2023,18:58,2482,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-JADJ2JQD,26/09/2023,17:06,1360,EXITOSA,España,Teófilo,Arnaiz,Carretero,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Tiburcio,Castejón,,República Popular Democrática de Corea,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RQQZ08NH,26/09/2023,14:00,1117,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Nazario,Osuna,Ortuño,Niger,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZYBWVR6Z,26/09/2023,20:16,2461,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ADU5PY09,26/09/2023,16:14,703,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YL1TBV6T,26/10/2023,09:57,1047,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VM742VLR,26/11/2023,18:10,1696,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UVHVOBBD,26/12/2023,20:14,1659,CANCELADA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-35M9LXD8,27/01/2023,20:37,390,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-E6U4WINJ,27/01/2023,15:16,2834,EXITOSA,España,Osvaldo,Ordóñez,Sanmiguel,Islas Salomón,Y0695954B,República Centroafricana,01/03/1987,False,Arsenio,Ordóñez,Cabello,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-7TMBJ05E,27/02/2023,05:30,1347,EXITOSA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-COMDQ84A,27/02/2023,14:42,2163,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NR80SDUT,27/02/2023,13:10,1292,CANCELADA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MF0BTM5Q,27/03/2023,19:58,1422,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2SW3DASO,27/03/2023,18:11,587,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-R6FIFM12,27/04/2023,09:07,1861,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EQHL37NA,27/04/2023,14:00,1520,CANCELADA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6OCNXZ6I,27/05/2023,17:44,471,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EKV2A7MW,27/06/2023,16:17,1422,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-O21W8EGI,27/06/2023,19:14,1763,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VZPHBYMA,27/06/2023,19:57,2478,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Jose Angel,Barriga,Tolosa,Libia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-POM4WPA7,27/07/2023,09:15,1108,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UEPVQ7L5,27/07/2023,10:32,1541,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RAZLLI5P,27/07/2023,18:56,1433,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-E5RE9MPJ,27/08/2023,16:42,552,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-PVOYQ0SB,27/08/2023,19:33,1285,FALLIDA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-NT6RFWXM,27/08/2023,16:41,1959,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-XZY32LDO,27/08/2023,04:18,1702,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-L0IKFLPZ,27/09/2023,20:01,2478,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-O86KCXWQ,27/09/2023,09:58,2365,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-X8Y00YPA,27/09/2023,16:03,1183,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-YN4J8RIU,27/09/2023,17:27,428,FALLIDA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GCOVJIIL,27/09/2023,12:49,2201,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-BGV91TXI,27/10/2023,09:21,1095,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-4V102HIR,27/11/2023,13:19,1979,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MHK2KFNV,27/11/2023,18:20,2894,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-Y3WCPQB6,27/11/2023,13:25,2458,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-GHS7S2ZI,27/11/2023,17:12,954,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-3PP54N2L,27/11/2023,18:37,1724,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-P22UE8DU,27/12/2023,19:09,2834,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-346VJCE1,27/12/2023,20:29,1959,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9L11D73U,28/01/2023,12:12,1327,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Sabas,Carvajal,Aragón,Ghana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-W9RM89AM,28/01/2023,15:44,1481,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UPNS2TFT,28/01/2023,09:04,896,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VN7KZ4K5,28/01/2023,16:43,582,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-M0EMGWIW,28/02/2023,11:56,2107,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-2IV7KN7U,28/02/2023,11:03,589,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-6KE1EFB8,28/02/2023,15:25,628,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-LVP8M5OV,28/03/2023,20:18,283,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-01L976XQ,28/03/2023,20:59,1991,EXITOSA,España,Germán,Robledo,Carrión,Cuba,Y1319812V,Honduras,21/10/1944,False,Severino,Robledo,Piña,Cuba,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-RRI4RXY7,28/03/2023,19:32,2170,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-9OMCYV9O,28/04/2023,17:39,574,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-PGA3H6VN,28/05/2023,19:43,2507,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-MZMO1AZP,28/06/2023,12:46,1113,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-EOXFING1,28/06/2023,16:19,440,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-X9QJCXTL,28/06/2023,21:22,371,CANCELADA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-3NDWKJPI,28/06/2023,10:38,952,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-ZQQVVKJC,28/08/2023,18:24,317,EXITOSA,España,Inmaculada,Bayón,Aguilera,Luxemburgo,X4788863X,República Dominicana,30/04/1979,False,Ramón,Bayón,,Luxemburgo,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-H6X6FFJY,28/08/2023,15:30,567,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-I6MH77YK,28/09/2023,18:02,874,EXITOSA,España,Flavia,Buendía,Iniesta,San Marino,Y2710044Z,Turquía,23/02/2002,False,Celestino,Buendía,Solís,San Marino,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-C3LBD432,28/09/2023,11:04,1385,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-KJ6GE2Y5,28/09/2023,16:03,2043,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-U42QZIS1,28/09/2023,13:26,468,EXITOSA,España,Lorenzo,Guillen,Calderón,República Federal Democrática de Nepal,Z8069318A,República Dominicana,24/08/1957,False,Martin,Guillen,,República Federal Democrática de Nepal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-46UTW9M4,28/10/2023,21:16,526,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-768J4VT0,28/10/2023,20:30,2249,EXITOSA,España,Fátima,Cal,Pizarro,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-8XQYOVKS,28/10/2023,11:19,2739,EXITOSA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-UD7FX7QT,28/11/2023,11:47,121,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-VSWPRSHP,28/11/2023,16:59,2477,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-75PLL9CF,28/12/2023,14:43,1728,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-WAL17JVF,22/08/2023,20:30,76,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Central,Beneficiario,,España,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-CBGAKI20,21/10/2023,16:07,137,EXITOSA,España,Rosaura,Corominas,Gaya,Samoa,X4345942T,Liberia,22/09/1910,False,Central,Beneficiario,,España,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FMZURFP8,17/01/2023,10:22,171,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Central,Beneficiario,,España,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-A1B3C,16/05/2023,10:55,1050,CANCELADA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-BB212,16/05/2023,10:55,1269,CANCELADA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-B1A1B,16/05/2023,10:55,1094,CANCELADA,España,Zaida,Landa,Aguado,Guyana,X3915229P,Bahamas,12/10/1917,False,Montserrat,Landa,Ariño,Guyana,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-1ABB1,16/06/2023,10:43,1260,FALLIDA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-CA3CB,16/07/2023,12:16,850,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Carina,Llopis,,República Federal Democrática de Nepal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-A1123,16/07/2023,12:16,1380,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Carina,Llopis,,República Federal Democrática de Nepal,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-C12C1,27/10/2023,09:21,1223,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-B21BC,27/10/2023,11:05,1296,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-C221A,27/10/2023,11:05,805,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-CA2BC,02/06/2023,12:43,1133,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-1CC32,02/06/2023,12:43,1402,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-3BA3C,02/06/2023,12:43,1307,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-32B13,18/09/2023,13:25,1392,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-2B132,18/10/2023,10:28,1357,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-13CB2,18/10/2023,10:28,941,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-C33BC,24/07/2023,16:15,1469,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-B31A2,24/07/2023,13:51,1358,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-C1BA2,24/07/2023,13:51,1456,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-CA1CB,01/12/2023,18:10,1406,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-B2ACA,01/12/2023,18:10,1497,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-FRAC-21C1B,01/12/2023,18:10,1449,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-Z7ZYX,01/09/2023,15:29,2434,CANCELADA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-89Y9Z,01/09/2023,15:29,2096,CANCELADA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-Y7X8Y,01/09/2023,15:29,2180,CANCELADA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-X97X8,01/09/2023,15:29,2853,CANCELADA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-8ZYX7,01/09/2023,15:29,2088,CANCELADA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-XZ899,05/06/2023,12:12,2515,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-Y7X8X,05/06/2023,12:12,2633,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-YXX89,05/06/2023,12:12,2859,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-7XZY7,05/06/2023,12:12,2247,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-77Z99,24/02/2023,19:21,2462,EXITOSA,España,Pablo,Bárcena,Prada,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Central,Beneficiario,,España,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-Z979Y,24/02/2023,19:21,2774,EXITOSA,España,Pablo,Bárcena,Prada,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Central,Beneficiario,,España,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-Y7YZ7,24/02/2023,19:21,2833,EXITOSA,España,Pablo,Bárcena,Prada,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Central,Beneficiario,,España,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-8XZ87,24/02/2023,19:21,2939,EXITOSA,España,Pablo,Bárcena,Prada,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Central,Beneficiario,,España,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-97Y89,14/11/2023,11:41,2713,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-7YXX8,14/11/2023,11:41,2929,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-ZY9Y9,14/11/2023,11:41,2197,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-YY88Z,14/11/2023,11:41,2604,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-99YX7,15/08/2023,20:10,2894,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-XXZ99,15/08/2023,20:10,2761,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-87XZX,15/08/2023,20:10,2124,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-7XY8Y,15/08/2023,20:10,2350,EXITOSA,España,Desiderio,Blanca,Solsona,Tuvalu,X2114818Z,Gambia,06/12/1957,False,Saturnina,Blanca,Rico,Tuvalu,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-ZY978,06/01/2023,20:49,2324,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-8ZZZ7,06/01/2023,20:49,2652,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-ZZ8Z7,06/01/2023,20:49,2729,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-X78YX,06/01/2023,20:49,2866,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-7XYZZ,13/07/2023,04:45,2580,CANCELADA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-98YZ7,13/07/2023,04:45,2348,CANCELADA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-YYXZX,13/07/2023,04:45,2649,CANCELADA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-Z8Z7Y,13/07/2023,04:45,2101,CANCELADA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-9XYZX,13/07/2023,04:45,2513,CANCELADA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-YY97Y,11/12/2023,12:28,2385,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-ZY7X7,11/12/2023,12:28,2988,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-97X99,11/12/2023,12:28,2635,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,La Mojonera,Sujeto_Obligado10,Agente437,False
+TXN-HIGH-8888Y,11/12/2023,12:28,2226,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,La Mojonera,Sujeto_Obligado10,Agente437,False

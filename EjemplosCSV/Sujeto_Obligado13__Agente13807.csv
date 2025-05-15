@@ -1,0 +1,585 @@
+﻿NUMERO_TRANSACCION,FECHA,HORA,IMPORTE,ESTADO_OPERACION,PAIS_ORIGEN,NOMBRE_ORDENANTE,APELLIDO_ORDENANTE,SEGUNDO_APELLIDO_ORDENANTE,PAIS_DOC_ORDENANTE,NUM_DOC_ORDENANTE,PAIS_NAC_ORDENANTE,FECHA_NAC_ORDENANTE,es_Agente,NOMBRE_BENEFICIARIO,APELLIDO_BENEFICIARIO,SEGUNDO_APELLIDO_BENEFICIARIO,PAIS_DESTINO,ENT_TOW_CIT_RES,ENT_COD_PAR_ENT,ENT_NAT_REF_COD,es_PEP
+TXN-1D10IVC2,01/01/2023,15:36,672,EXITOSA,España,Severino,Rosales,Miguel,Dominicana,X6084787E,Camerún,24/12/1915,True,Eliana,Rosales,Frutos,Dominicana,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QS3WIHPF,01/03/2023,09:42,1153,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-S19MGHXW,01/03/2023,10:25,2089,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-U0QT9Q37,01/03/2023,19:12,1499,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,José Ángel,Aliaga,Peñas,Cabo Verde,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-98PVZTEW,01/03/2023,19:04,1807,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Prudencio,Pedrosa,Planas,Sudán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JOZKARQJ,01/04/2023,17:53,2007,EXITOSA,España,Josep,Estevez,Belda,Zambia,Y2076183X,Azerbaiyán,23/10/1968,False,Paulina,Estevez,Benito,Zambia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-TTXBYART,01/05/2023,10:06,1689,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WKOC67U2,01/05/2023,10:05,979,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-UACEA84O,01/05/2023,19:43,51,EXITOSA,España,Pánfilo,Murcia,Fernandez,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-5H1XPG0B,01/06/2023,20:12,2734,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-P9TB0B3G,01/06/2023,12:21,415,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NCP8RQT0,01/06/2023,11:31,2555,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-C83RSXNY,01/06/2023,16:34,459,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PXF6CVMO,01/07/2023,09:06,1546,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-BSINHUZM,01/08/2023,09:09,248,EXITOSA,España,Julián,Castells,Haro,Nauru,X7605990M,Tayikistán,11/06/1926,False,Édgar,Castells,Portero,Nauru,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ZTYD566J,01/08/2023,15:07,146,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Rosalinda,Miguel,Sebastián,Indonesia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CZWEX224,01/09/2023,19:06,2333,FALLIDA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-91KAU49T,01/09/2023,11:06,646,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IPXX54YR,01/10/2023,11:53,2641,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-L2SL5FEQ,01/10/2023,21:41,1430,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FZV5NBH5,01/11/2023,16:00,839,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NSCO0VBH,01/11/2023,15:26,2349,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-YGKA0SPJ,01/11/2023,21:58,1031,FALLIDA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SEH0WISK,02/01/2023,12:28,1010,EXITOSA,España,César,Gimeno,Pujol,Angola,Z9787302W,Sudán del Sur,30/08/1968,False,Nayara,Barral,Velázquez,Jamaica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-VHEBWCYB,02/02/2023,11:58,2570,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-E09AKZTH,02/03/2023,21:39,2012,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JOQST58R,02/03/2023,13:00,821,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-TPQ3T7WI,02/07/2023,13:02,1485,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-RPUV7O1V,02/07/2023,21:21,377,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-B902Q1ZD,02/07/2023,18:11,859,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0IWIF45M,02/07/2023,19:21,380,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SL3BV7W0,02/08/2023,12:43,329,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-9NF27Z74,02/09/2023,10:42,821,EXITOSA,España,Marco,Santos,Santana,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-K4JEBL3G,02/09/2023,19:33,122,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-DTXT25QS,02/10/2023,04:19,549,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JYGQ2KPA,02/11/2023,21:02,1442,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-X8GR3SX3,03/01/2023,19:18,1903,EXITOSA,España,Alejandra,Saura,Téllez,Bahrein,Z7978767A,Sri Lanka,27/10/1977,False,Seve,Saura,Duque,Bahrein,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-L6GZYDFC,03/02/2023,21:24,1360,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-VJI95RP9,03/02/2023,10:02,99,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Armida,Casares,Elorza,Congo,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-DHRIM3FU,03/03/2023,17:03,1387,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2SWXW4FU,03/06/2023,19:41,1655,EXITOSA,España,Azahara,Español,Páez,Rwanda,X4730478E,República Dominicana,25/05/1925,False,Juanito,Español,Gaya,Rwanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-9TXZC93A,03/07/2023,10:42,1958,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QUYZAIJ8,03/07/2023,18:17,2744,CANCELADA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Albuñol,Sujeto_Obligado13,Agente13807,True
+TXN-GWHROCOF,03/07/2023,11:51,2863,EXITOSA,España,Javier,Barral,Checa,Jamaica,Y6839596P,República de Moldova,04/02/2010,False,Nayara,Barral,Velázquez,Jamaica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NTJI0J2Y,03/08/2023,11:44,569,FALLIDA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-RJYY4MC8,03/08/2023,23:01,2649,CANCELADA,España,Samuel,Escamilla,Abad,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-TGVRCGE5,03/08/2023,16:15,1410,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-F51RHTDJ,03/08/2023,20:19,1093,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KBE9L4P8,03/08/2023,19:11,482,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-3QPPG6X3,03/09/2023,15:14,1145,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-5HN4RH7Q,03/11/2023,10:09,2085,EXITOSA,España,Enrique,Borrell,Olivera,Chad,X6236429W,Irán,07/08/1958,False,Albert,Borrell,,Chad,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XQ2L9Q8B,03/11/2023,20:35,2038,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KY579TB4,03/11/2023,06:04,750,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-DHHX2IWN,03/11/2023,17:31,2748,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-BV20KUZJ,03/12/2023,18:00,905,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IHKX4OF0,04/01/2023,15:13,1789,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OTD6228M,04/01/2023,18:07,508,CANCELADA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NE1YUCC3,04/02/2023,15:31,1873,EXITOSA,España,Eloy,Morera,Cardona,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OH72WH5I,04/02/2023,09:12,2817,FALLIDA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KR3O1GTN,04/03/2023,16:54,567,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-LGLJQZED,04/03/2023,17:01,2760,EXITOSA,España,Olegario,Rico,Caro,Bolivia,Y5638521Q,Tuvalu,26/11/2020,False,Eusebia,Rico,Gilabert,Bolivia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-J9M4HTP3,04/03/2023,19:36,1985,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-1CTYBM7Z,04/03/2023,19:00,1639,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2SR1WT2T,04/03/2023,11:00,1992,FALLIDA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SO2JNIZQ,04/03/2023,14:35,912,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-83KDGKPQ,04/04/2023,15:03,2042,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4WD1SJ8K,04/05/2023,12:11,60,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,ZZZD09C1,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0GL8SGJS,04/05/2023,20:12,1024,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SB06JLXI,04/05/2023,20:43,1346,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ELR5RH1D,04/05/2023,10:34,1255,CANCELADA,España,Ximena,Noriega,Ferrán,Suriname,Y6061137F,Costa Rica,01/03/1940,False,Viviana,Noriega,Vives,Suriname,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2QCCF0H5,04/05/2023,18:53,145,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-1I02GCXT,04/05/2023,13:18,1814,FALLIDA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WU5RKKCC,04/06/2023,10:39,179,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-7KOCMBHM,04/07/2023,10:20,1744,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-L1FR1QIH,04/08/2023,21:03,148,FALLIDA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-X0M1PZ03,04/08/2023,12:23,1151,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-THK69I06,04/09/2023,11:21,750,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JWV4JIAR,04/09/2023,13:25,2310,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-EDLXRY6T,04/09/2023,13:48,1791,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ZXKVM9OP,04/10/2023,20:28,848,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WT9LU7Q5,04/10/2023,09:45,2487,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WKCVLC4A,04/11/2023,11:09,2521,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PJXSRQQM,04/11/2023,09:22,597,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FBBX9THN,04/11/2023,19:58,2655,EXITOSA,España,Jonatan,Morell,Montes,República de Moldova,Z2143331N,Polonia,24/05/1967,False,Andrés,Morell,,República de Moldova,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-129VUZHK,04/11/2023,20:04,2781,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XYDO6PD1,04/12/2023,21:05,2246,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GYVYIOM2,05/01/2023,10:03,2378,EXITOSA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Erasmo,Figuerola,Olmedo,Libia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-TX40O2JZ,05/03/2023,17:20,2513,EXITOSA,España,Socorro,Puga,,Uganda,Z3897624A,Irán,14/12/1968,False,Hilario,Puga,Gibert,Uganda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4XT5ZYTH,05/04/2023,19:00,2531,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ERUUSNJR,05/04/2023,13:11,246,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-U2PCHHTH,05/06/2023,16:42,2491,FALLIDA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Saturnina,Blanca,Rico,Tuvalu,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4NN93GQV,05/07/2023,19:18,1274,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-3UEY4DWF,05/08/2023,14:05,588,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Sancho,Paredes,,Zimbabwe,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-M0FVW2O8,05/09/2023,14:43,1618,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JNRB32ME,05/10/2023,11:54,1636,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-5V4E3GND,05/10/2023,20:57,387,EXITOSA,España,Filomena,Madrigal,Pi,Dinamarca,Y7524776H,Guatemala,03/12/1961,False,Efraín,Madrigal,Cárdenas,Dinamarca,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-1CBA18PK,05/11/2023,09:44,346,EXITOSA,España,Eliana,Leon,Morera,Malawi,ZZZ8D3C1,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-VJJFIRTI,05/12/2023,21:18,1099,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2VXBADPJ,05/12/2023,11:50,101,EXITOSA,España,Gema,Ramón,Río,Luxemburgo,X0330354M,Italia,31/08/1995,False,Paulino,Ramón,Quintero,Luxemburgo,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-08PU860M,06/01/2023,20:15,1609,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SC4W5MIS,06/01/2023,17:52,425,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-UW42X7GZ,06/02/2023,14:27,2046,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-W0EFC0LE,06/03/2023,15:06,1397,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-F2826NKW,06/04/2023,12:11,2578,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-TH6AI6V0,06/05/2023,17:25,2314,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OU2YLYSW,06/06/2023,21:37,2910,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-G6GZ7RZM,06/07/2023,11:46,824,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HEWCBR2P,06/07/2023,10:08,1231,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-Y2CEBPRP,06/07/2023,11:45,333,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-DBI4W6GL,06/07/2023,19:48,1532,EXITOSA,España,Yago,Diego,Puerta,Ghana,X2263512J,Suiza,22/06/1977,False,Celestino,Diego,Mayoral,Ghana,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-DH2P6ANP,06/07/2023,18:20,2942,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Nicolasa,Arcos,Bou,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-21R5U5KB,06/08/2023,12:46,332,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-3MX1WSXP,06/08/2023,12:57,1164,EXITOSA,España,Ani,Díez,Gallo,Antigua y Barbuda,Z5297690J,Chad,07/03/1966,False,Fidela,Díez,Romeu,Antigua y Barbuda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FW6ZVZGE,06/09/2023,20:18,397,FALLIDA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-V59S4Z7T,06/09/2023,12:13,1534,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PASGO5E8,06/09/2023,13:25,2693,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-BQGIRD9C,06/10/2023,13:49,2411,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QP78UINN,06/10/2023,21:38,690,EXITOSA,España,Adrián,Madrigal,,Togo,Y7772907W,Bhután,22/10/1929,False,Carlito,Segarra,Bermejo,Congo,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ZRLZZAUK,06/10/2023,20:40,606,EXITOSA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GBF2ET0C,06/10/2023,17:38,1608,EXITOSA,España,Amílcar,Cañas,Gutiérrez,Angola,Y4027992Q,República Unida de Tanzanía,16/05/2011,False,Luisina,Cañas,Llabrés,Angola,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2QXFHEX4,06/11/2023,19:58,244,EXITOSA,España,Jesús,Anglada,Laguna,Yemen,X3090236W,Bahrein,27/06/1948,False,Hermenegildo,Anglada,Soriano,Yemen,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-52MJ952B,06/11/2023,13:02,2683,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-J4OK3LXW,06/11/2023,17:05,874,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JSKH714F,06/12/2023,17:57,1676,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-AE2PWAM5,06/12/2023,14:10,2409,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-9NK86U34,06/12/2023,18:11,1289,EXITOSA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-55I3RFGQ,06/12/2023,17:28,523,EXITOSA,España,Úrsula,Fernandez,Izaguirre,Senegal,X3205334P,España,08/01/1917,False,Adelardo,Toledo,Andrade,Ecuador,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GXCEI46S,07/01/2023,14:08,1846,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8WO63G9I,07/01/2023,18:43,2692,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KF2QBBYU,07/01/2023,21:56,1418,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-V0QJ2RFO,07/02/2023,12:03,2730,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XVB1NKGD,07/02/2023,09:33,1862,CANCELADA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WEQ7Q1D6,07/03/2023,17:00,1043,CANCELADA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-VOGU8XIU,07/03/2023,12:43,2540,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-LJA8DJRU,07/05/2023,15:34,118,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GQ1MAEMR,07/06/2023,16:51,352,EXITOSA,España,Juliana,Asensio,Ayuso,Omán,Y8375950P,Chipre,29/06/2004,False,Jordi,Asensio,Torrents,Omán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-T4CHDG15,07/06/2023,18:49,716,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0VW7G6H2,07/07/2023,11:10,711,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-Z2RD4LTR,07/08/2023,11:31,2816,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-VMOUEZQG,07/09/2023,11:56,2373,EXITOSA,España,Jordi,Ferrán,Ángel,Turkmenistán,Z3380435S,Brasil,15/01/1914,False,Joel,Ferrán,Arregui,Turkmenistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GJWGKVQY,07/09/2023,21:11,2570,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-49VGH6W6,07/09/2023,16:15,716,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-1JJY62J0,07/09/2023,19:38,2202,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0HNYJ37D,07/09/2023,17:32,1492,CANCELADA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-49CFB8UR,07/09/2023,20:10,2862,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IARL5PH0,07/10/2023,21:01,1135,EXITOSA,España,Francisco,Cepeda,Chaves,Panamá,Z5380692P,Bangladesh,26/03/2009,False,Ulises,Escamilla,Barragán,Panamá,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-BN6D2S8S,07/11/2023,15:49,2801,EXITOSA,España,Nando,Peralta,Galvez,Palau,Z1563193A,Panamá,09/12/1922,False,Julieta,Peralta,Cabrero,Palau,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KGF70BJD,07/12/2023,19:02,2791,EXITOSA,España,Matías,Navarro,Jordán,Argelia,X6795607G,Polonia,23/03/1976,False,Joaquina,Navarro,Villalonga,Argelia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GFI9CT4K,07/12/2023,21:09,2574,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-EC3RI9N4,08/01/2023,21:52,1519,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-6AQI0GJL,08/02/2023,16:54,2311,EXITOSA,España,Carina,Salamanca,Aguilar,Guinea Bissau,Y7028126F,Arabia Saudita,10/09/1924,False,Amaya,Salamanca,Parejo,Guinea Bissau,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-906F240C,08/02/2023,21:56,70,CANCELADA,España,Américo,Anguita,Heredia,Finlandia,Y4321722J,Ecuador,30/01/1933,False,Humberto,Anguita,Varela,Finlandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8MJPKK9S,08/02/2023,19:36,1878,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4QFGWP33,08/03/2023,13:44,2967,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-AIWYGCQB,08/03/2023,21:45,2892,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-INK672PR,08/03/2023,20:15,2970,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WLUSVSSJ,08/04/2023,04:25,2995,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4O77M0E7,08/05/2023,15:59,1612,EXITOSA,España,Dafne,Uría,Águila,Islas Salomón,X4507074V,Mozambique,10/08/1923,False,Cristian,Uría,Calvet,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-EDEAQ96P,08/06/2023,21:41,145,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Luisina,Cañas,Llabrés,Angola,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-65KEXD0U,08/08/2023,20:23,1664,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-YPPY4AF7,08/08/2023,14:57,2898,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-TXS2V69T,08/09/2023,09:47,646,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SIH87LKG,08/10/2023,06:34,244,EXITOSA,España,Carlito,Oliva,Izaguirre,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KPE88PHB,08/12/2023,17:46,1348,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-S0BTV36N,09/01/2023,10:24,1548,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-LSJOMOFV,09/01/2023,17:13,391,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OJKS51CZ,09/01/2023,09:25,1919,EXITOSA,España,Amada,Piñol,Aguado,Emiratos Árabes Unidos,X4253384V,Haití,11/11/1933,False,Octavio,Piñol,Casanovas,Emiratos Árabes Unidos,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-6N2WKCF1,09/02/2023,11:06,1870,EXITOSA,España,Nacho,Villalba,,Finlandia,Y8259181X,Austria,02/02/1972,False,Tristán,Santos,Priego,Finlandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OCRST39F,09/02/2023,20:01,1720,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-EGY1AWFO,09/03/2023,13:04,1520,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-G75UYC07,09/03/2023,12:21,359,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,ZZZ3E7CD,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XO2XNDMY,09/03/2023,19:30,2790,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OL3CYSZH,09/04/2023,17:32,1149,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-U7B4DS3N,09/05/2023,10:15,2606,EXITOSA,España,Marino,Chamorro,Cano,Austria,Y5053023Y,San Vicente y las Granadinas,23/05/2000,False,Pepita,Chamorro,,Austria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-YNW8JG8Z,09/05/2023,19:51,1713,CANCELADA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NVJ3MQ35,09/05/2023,02:39,2672,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Primitivo,Velázquez,Taboada,Lesotho,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-9XHFJGNQ,09/05/2023,09:42,1500,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-W26ETZ9X,09/07/2023,21:37,750,EXITOSA,España,Humberto,Elorza,,Antigua y Barbuda,X7843041H,España,20/08/2009,False,Juan José,Alberdi,Salinas,Antigua y Barbuda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-6PIFLGY0,09/07/2023,13:30,1197,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QB3UM6XM,09/08/2023,16:58,170,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-E64IDCNK,09/09/2023,19:41,515,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-7PNHXPKZ,09/11/2023,15:28,982,EXITOSA,España,Belen,Corominas,Palacios,Camboya,Z7743984G,Italia,04/08/1917,False,Celestina,Corominas,Lledó,Camboya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4UD8SN2Z,09/11/2023,21:11,2973,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-U95YUASL,09/11/2023,21:03,1436,EXITOSA,España,Miguela,Salazar,,Luxemburgo,Y4055137K,República Centroafricana,09/07/2014,False,Lidia,Salazar,Ferreras,Luxemburgo,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-96DLPCNN,09/12/2023,11:37,1031,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-YQ0AYF7W,10/02/2023,15:41,887,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-DZ282ZTV,10/03/2023,21:03,2557,CANCELADA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-U0A1K0J3,10/03/2023,18:04,2787,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4M7PCPZ8,10/03/2023,10:22,2735,FALLIDA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ESBGCTTY,10/04/2023,09:29,860,EXITOSA,España,Leire,Calatayud,Aguilar,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-N7QD7Y6Y,10/04/2023,09:36,1152,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-6UFADSPL,10/07/2023,09:57,2600,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IDNOL8DR,10/07/2023,13:08,2287,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-USU9HZT8,10/07/2023,13:30,1329,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QY2B1CNC,10/08/2023,21:20,1210,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QO387DPK,10/08/2023,16:12,1926,EXITOSA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-AMUU1O22,10/08/2023,19:56,1274,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FM158A8D,10/09/2023,17:32,1952,EXITOSA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-465I72C0,10/10/2023,19:11,366,EXITOSA,España,Renata,Barbero,,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8WQCZFCI,10/11/2023,15:00,2437,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-R8S95R4Q,10/11/2023,20:43,2290,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-P7B1Y4YV,11/01/2023,16:39,1541,EXITOSA,España,María,Calatayud,Medina,Bélgica,Z1498124R,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-RLI4H3HT,11/01/2023,10:37,990,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-7JURPIL0,11/01/2023,13:52,2320,FALLIDA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SEEBZYPN,11/02/2023,16:24,905,FALLIDA,España,Vicenta,Acevedo,Escamilla,Niger,X0961077E,Afganistán,23/10/1965,False,Luna,Acevedo,,Niger,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-MHBEUFFY,11/03/2023,09:39,1877,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-LSS33JA2,11/03/2023,21:36,523,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-UXUHJIRV,11/04/2023,14:17,112,EXITOSA,España,Belen,Badía,Espada,Zimbabwe,Z6919030Z,Gabón,28/09/2013,False,Modesto,Badía,Cabrera,Zimbabwe,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-7EY6W4M6,11/04/2023,20:45,2412,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-I6X31PK7,11/04/2023,17:00,2762,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-C40WYVVZ,11/04/2023,21:16,496,CANCELADA,España,Anastasia,Ropero,,Croacia,X3781092F,Haití,14/10/1976,False,Gertrudis,Olivera,,Mauricio,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-COQ71UYZ,11/05/2023,12:36,561,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-M2J9976T,11/06/2023,21:13,981,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-7LZFH0I8,11/06/2023,13:02,2316,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NB612B64,11/06/2023,01:42,1390,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HRWATEGD,11/07/2023,19:35,802,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-Y82T8D05,11/07/2023,17:34,1046,EXITOSA,España,Elisabet,Ramírez,,Eslovaquia,Y4232262T,Malasia,18/02/1996,False,Lázaro,Ramírez,Real,Eslovaquia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GZBPAQQ9,11/09/2023,14:03,2717,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-06M9ZE71,11/09/2023,14:02,2453,EXITOSA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CTR7BC95,11/10/2023,16:09,2267,EXITOSA,España,Marcio,Pagès,Mendoza,Angola,X3898191J,Arabia Saudita,02/02/1952,False,Luisa,Pagès,Garmendia,Angola,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-STQ2623E,11/10/2023,13:47,1401,EXITOSA,España,María Luisa,Bellido,Nieto,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2UOHTAM6,11/10/2023,10:40,827,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-Q86RTL7H,11/11/2023,09:42,2242,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-3YW128NQ,11/12/2023,21:14,1404,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PDPJMMO8,12/01/2023,21:05,1934,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-G8N17QB1,12/01/2023,13:56,621,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Gabriel,Fiol,,Mali,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-G0XLR2SG,12/02/2023,16:59,2409,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-D0Q7PAWN,12/02/2023,11:03,1873,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,ZZZF53FF,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-VZE8HWG6,12/03/2023,18:44,2524,EXITOSA,España,Ignacio,Perales,,Singapur,Z2989272J,Suriname,03/09/1936,False,Humberto,Perales,,Singapur,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-T2FRNDAN,12/04/2023,12:45,1348,EXITOSA,España,Alejandro,Alonso,Cordero,Burundi,Z0516938H,Kirguistán,01/04/1954,False,Tomasa,Alonso,,Burundi,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-6SFG1608,12/04/2023,13:21,1368,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NBB8N1SC,12/05/2023,13:37,1835,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-L95L5ADE,12/06/2023,19:28,1317,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-906941QT,12/07/2023,09:48,1129,EXITOSA,España,Socorro,Montes,Murcia,Malawi,X4246597S,Islas Marshall,08/12/1954,False,Celestina,Corominas,Lledó,Camboya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ANWQQ68L,12/08/2023,15:49,448,EXITOSA,España,Bernardo,Acedo,Juárez,Barbados,Z8144446J,Reino Unido de Gran Bretaña e Irlanda del Norte,10/02/1995,False,Silvia,Acedo,Sans,Barbados,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WZYRDFEI,12/08/2023,19:40,871,EXITOSA,España,Che,Sierra,Farré,Nicaragua,X9944955P,Fiji,20/04/1918,False,Yago,Sierra,Ballesteros,Nicaragua,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-L30DBQ2I,12/08/2023,12:07,2907,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GPJHP6SM,12/09/2023,10:49,719,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-B5E928QG,12/09/2023,12:47,1205,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FXLHI8LC,12/10/2023,18:35,505,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Nicolasa,Feliu,Romeu,Pakistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-W1YB47MF,12/11/2023,17:30,2630,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HFDL788K,12/11/2023,14:55,2198,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-UPTZ228S,12/11/2023,12:53,90,EXITOSA,España,Ignacio,Gascón,,Ghana,Z5555714T,Burundi,02/10/1986,False,Emigdio,Gascón,Aparicio,Ghana,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-X8LAVSM4,12/11/2023,10:32,1486,EXITOSA,España,Blas,Agullo,Guerrero,Tailandia,Y1120491Z,Haití,09/02/2009,False,Isabel,Agullo,Valero,Tailandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-D7LKBTE7,12/11/2023,14:08,2469,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ASS4HKHI,12/12/2023,19:55,2984,EXITOSA,España,Samu,Lucena,Casal,Vanuatu,X8986283E,Fiji,25/06/2022,False,Teresa,Lucena,Miranda,Vanuatu,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2QK0766F,12/12/2023,11:54,2804,EXITOSA,España,Javi,Morillo,Becerra,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-UORE6LO5,13/02/2023,18:23,2466,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,X0340805Z,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CQRTKTWS,13/02/2023,11:33,570,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-E29LGNCS,13/03/2023,18:42,2404,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-6MXBBJQG,13/03/2023,20:10,2005,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-LLE1NCFF,13/04/2023,14:45,899,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-W9M9TU8Q,13/05/2023,03:03,1047,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WMWS2ICT,13/06/2023,21:11,169,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-A11U9XRT,13/06/2023,18:24,339,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PG3WM6FO,13/07/2023,10:06,195,EXITOSA,España,Anna,Sureda,Palacio,Tonga,Z9265225W,Papua Nueva Guinea,09/05/1943,False,Paz,Sureda,Roda,Tonga,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-U4G5KPZ7,13/07/2023,21:50,272,EXITOSA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-M5C2ZZE5,14/02/2023,21:06,2239,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-DB7C32JD,14/03/2023,21:18,889,EXITOSA,España,Sonia,Canales,Royo,Marruecos,Z1176445T,Eslovenia,02/06/1997,False,Tere,Canales,Agullo,Marruecos,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-24Y3N6DU,14/03/2023,12:09,2657,EXITOSA,España,Abraham,Palacio,Colomer,Nueva Zelandia,X9405224H,Kuwait,16/01/1927,False,María Luisa,Palacio,Jerez,Nueva Zelandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SD0EXVOC,14/03/2023,17:50,1001,EXITOSA,España,Virgilio,Valera,,Côte d'Ivoire,Z1534152B,San Marino,12/07/1937,False,Jose Ignacio,Valera,Badía,Côte d'Ivoire,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-YL8DUSRX,14/03/2023,12:42,994,EXITOSA,España,Rocío,Peinado,Ramirez,Maldivas,Z9516726K,Bahrein,24/01/1979,False,Felisa,Peinado,Escolano,Maldivas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8AT3259D,14/04/2023,09:58,2161,EXITOSA,España,María Belén,Gomila,Nebot,Kirguistán,X5759274M,República Árabe Siria,19/01/2024,False,Noemí,Gomila,Español,Kirguistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-MXEP1GC5,14/05/2023,13:00,2850,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Constanza,Prats,Peláez,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-UO7G9ECE,14/06/2023,19:37,245,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-5MGEWYTA,14/06/2023,16:41,1873,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-K1P2R1TV,14/07/2023,07:10,2695,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-M259QZ39,14/07/2023,15:24,1097,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JTOYI9MV,14/07/2023,21:23,1798,EXITOSA,España,Wilfredo,Peinado,Giménez,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-VJ8QFC2Z,14/08/2023,10:37,179,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-VL78AKOS,14/08/2023,11:44,2946,EXITOSA,España,Francisco,Higueras,,Tonga,X9209999V,Islandia,23/10/2019,False,Genoveva,Higueras,Montero,Tonga,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-RLVVEXDQ,14/08/2023,12:24,353,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-MWSKH6N9,14/09/2023,09:31,2309,CANCELADA,España,Ángela,Maldonado,Pedraza,Bolivia,Y1690530K,República de Corea,04/02/2012,False,Prudencia,Maldonado,Sevillano,Bolivia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2NL147G2,14/09/2023,11:53,811,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IG93S1HJ,14/10/2023,17:50,2943,EXITOSA,España,Jonatan,Tovar,Campoy,Mauricio,Y8883275E,República de Corea,26/10/1955,False,Gertrudis,Olivera,,Mauricio,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-58F3MJF3,14/12/2023,09:57,2391,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-Q2V44MKQ,14/12/2023,14:41,369,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Cintia,Coll,Carmona,Suiza,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-LHWR60TC,14/12/2023,09:34,1100,EXITOSA,España,Martina,Ferrer,Salgado,Benin,Y9682325Y,Sri Lanka,19/03/2014,False,Jordán,Ferrer,Solsona,Benin,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0ZJYYION,15/01/2023,21:30,362,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8NHK1J4W,15/01/2023,21:06,2957,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OEEJT1ND,15/02/2023,14:59,274,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ZPJV124L,15/03/2023,09:56,705,EXITOSA,España,Estefanía,Poza,Simó,Islas Salomón,Y1849200Z,Estados Unidos de América,24/11/1971,False,Esther,Poza,Jara,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XDIZZGR4,15/03/2023,14:29,1747,CANCELADA,España,Florentino,Rosell,Cruz,Barbados,Y9987492D,Andorra,21/06/1950,False,Felicia,Manzanares,Salmerón,Barbados,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WGHST9JS,15/04/2023,19:44,1116,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-A3XK251H,15/04/2023,13:15,383,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-O24P6XKW,15/04/2023,14:58,71,CANCELADA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-RKNSBJIM,15/04/2023,19:16,341,EXITOSA,España,Macarena,Moll,Domínguez,Estados Unidos de América,X9614235M,Eslovaquia,13/08/2006,False,Consuelo,Moll,,Estados Unidos de América,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-TOWO15XE,15/05/2023,10:27,2032,CANCELADA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-7N5FUTRX,15/05/2023,15:17,1723,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QD6JKIPH,15/06/2023,13:21,2174,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GDKFCRN4,15/06/2023,21:12,696,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-S99EACSX,15/07/2023,16:10,343,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-739VN5VE,15/08/2023,13:13,779,FALLIDA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KRZZN3GY,15/09/2023,09:23,2798,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-D9Z9GT5I,15/10/2023,10:43,1460,EXITOSA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Norberto,Salom,,Uruguay,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CGECKJW0,15/10/2023,09:49,2323,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IRK23KGZ,15/10/2023,18:38,2652,EXITOSA,España,Concepción,Vallés,Millán,República Checa,Z7509622N,Portugal,15/10/1965,False,José Antonio,Vallés,Amores,República Checa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KY045S9X,15/10/2023,18:44,1066,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-MLFTD9IV,15/11/2023,10:05,728,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-68VDASLY,15/11/2023,20:36,2867,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FNYG19MD,15/12/2023,21:51,55,EXITOSA,España,José Manuel,Leon,Chaves,Liberia,Y2424436C,Kirguistán,24/10/1917,False,Dolores,Leon,Arenas,Liberia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-YCFA0N0I,15/12/2023,14:33,1411,CANCELADA,España,Marcelo,Ferrández,Elorza,Mónaco,Z4570170Y,Eslovaquia,06/08/2010,False,Segismundo,Ferrández,Calderón,Mónaco,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-O6EAFDDB,16/02/2023,12:32,1945,EXITOSA,España,Trinidad,Casal,Esparza,Comoras,Z6100575Z,Santa Lucía,12/02/1948,False,Emigdio,Casal,Medina,Comoras,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-I110CA6W,16/02/2023,09:09,2165,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0MNSC500,16/03/2023,18:20,2219,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XV7R3T16,16/04/2023,18:35,350,EXITOSA,España,Ani,Villalonga,Barba,Georgia,X4745919F,Suiza,25/07/2006,False,Nicolás,Villalonga,,Georgia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-X5AQ49SD,16/05/2023,11:17,2989,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SNCO70WL,16/05/2023,09:25,2340,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-AX9Y5FLF,16/07/2023,21:37,1316,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-BOZID7C5,16/08/2023,13:43,296,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-DM26C4YO,16/08/2023,16:36,69,EXITOSA,España,Seve,Amat,Boada,Samoa,Y1016859C,India,26/04/1940,False,Geraldo,Amat,Soriano,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-UJLCHEZV,16/09/2023,09:13,2431,CANCELADA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HO13VUUK,16/09/2023,09:04,191,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-22J1MK5Q,16/10/2023,11:51,2245,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FJ0HAQ91,16/10/2023,21:04,63,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SQ17HEOF,16/10/2023,11:43,621,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SU76WE6S,16/10/2023,11:42,230,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-C0AH7VYI,16/11/2023,15:47,1400,CANCELADA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-BU128AQK,16/11/2023,12:56,714,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XV4L7S0L,16/12/2023,12:26,231,EXITOSA,España,Samanta,Miró,Madrigal,Islandia,X3166873A,Haití,22/02/1923,False,Almudena,Miró,Ruano,Islandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0MJQ1IPR,17/01/2023,18:20,1192,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-N3ZY08RG,17/02/2023,20:57,1124,EXITOSA,España,Sandra,Rodrigo,Manrique,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8YPN4EIJ,17/03/2023,10:55,1205,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-89P1KDZY,17/05/2023,13:53,1899,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-LSU7LV4O,17/05/2023,09:45,1641,EXITOSA,España,Bautista,Amo,Cervera,Malta,Y5874479V,Yemen,19/09/1950,False,Mauricio,Burgos,Escrivá,Malta,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-MNDWWGTH,17/06/2023,12:59,1763,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-E7HZPR96,17/06/2023,14:13,1408,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-6SUCRDY2,17/06/2023,23:16,416,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-YYLINCJ4,17/06/2023,11:13,1525,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-F5DCFGLD,17/06/2023,00:36,346,EXITOSA,España,Jonatan,Aliaga,Coll,Cabo Verde,Z1686138J,Nauru,06/01/1999,False,José Ángel,Aliaga,Peñas,Cabo Verde,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-L3Z8L101,17/07/2023,16:01,1211,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-X5C7CAW5,17/09/2023,15:29,104,EXITOSA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0ZQHUIKT,17/09/2023,16:43,2174,FALLIDA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-RSNIBVSC,17/09/2023,21:06,403,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4G850M0M,17/09/2023,14:17,227,EXITOSA,España,Adelia,Carreras,,República Unida de Tanzanía,Z3068303Q,Ghana,14/01/2009,False,Valero,Carreras,,República Unida de Tanzanía,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JVPJR5R5,17/10/2023,19:33,1916,FALLIDA,España,Beatriz,Gámez,,Rwanda,Y4436927B,Federación de Rusia,14/02/1965,False,Jose Manuel,Gámez,Barco,Rwanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0O8JK1M8,17/10/2023,21:54,2037,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QH6VPEQH,17/11/2023,12:10,772,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4DEFDPB3,17/11/2023,10:04,2690,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Amaya,Castejón,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-C78BZA14,17/11/2023,19:48,627,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XKXJT2U6,17/12/2023,19:15,2663,EXITOSA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HW4NRCGV,18/01/2023,12:18,2639,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8PTVB1XJ,18/01/2023,20:32,2136,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HFDJWVEG,18/04/2023,05:46,336,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JIY45SN8,18/05/2023,13:04,2309,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-AXUEJVJ0,18/05/2023,18:54,2258,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-V3PEDNJM,18/06/2023,19:57,410,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-1ERXWADU,18/06/2023,21:50,2080,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-U53YR1KK,18/07/2023,12:47,1660,EXITOSA,España,Eloy,Miguel,Correa,Indonesia,Z7144737E,Canadá,13/10/2011,False,Rosalinda,Miguel,Sebastián,Indonesia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JIO1R0YO,18/08/2023,20:24,2481,EXITOSA,España,Celestino,Rojas,Roig,Santa Lucía,Z6750020P,Kiribati,16/05/1993,False,Ciríaco,Pino,Girón,Lituania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JE5U34WG,18/09/2023,13:04,496,CANCELADA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-YKCA4M51,18/09/2023,15:39,1823,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-254KX0ML,18/10/2023,10:25,824,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KDNJMHIM,18/11/2023,13:19,2860,EXITOSA,España,Severo,Río,Alberto,Uganda,Z8308697K,Brunei Darussalam,26/03/2022,False,Pili,Río,Tomas,Uganda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-Y9I4OAMX,18/12/2023,20:40,920,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4256XK4S,18/12/2023,20:46,160,EXITOSA,España,Albano,Hervia,Macías,Micronesia,Y7378622Y,Cabo Verde,19/09/1912,False,Severino,Hervia,Carbajo,Micronesia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-TVP3BEDS,18/12/2023,13:11,1753,CANCELADA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Martin,Guillen,,República Federal Democrática de Nepal,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-6ZVCA8IP,18/12/2023,21:13,1478,EXITOSA,España,Bernarda,Olivares,Tejedor,Emiratos Árabes Unidos,X4064277Q,Sierra Leona,07/12/1974,False,Valentina,Olivares,Chamorro,Emiratos Árabes Unidos,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-G4M9LLWJ,19/01/2023,18:42,2407,EXITOSA,España,Modesta,Nadal,,Malta,X5627449Q,Trinidad y Tabago,11/08/1966,False,Begoña,Nadal,Asenjo,Malta,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FYA7D31X,19/01/2023,16:21,1695,CANCELADA,España,Marisa,Pedrosa,Alcalde,Sudán,Z8239900V,Etiopía,17/03/1984,False,Prudencio,Pedrosa,Planas,Sudán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-9DMS5D9Y,19/01/2023,09:04,422,EXITOSA,España,Florinda,Romeu,,Gambia,Y4560972V,Albania,15/01/1916,False,Jordi,Asensio,Torrents,Omán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ZWZWEUJB,19/02/2023,14:43,2798,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-TKQW127T,19/03/2023,21:11,912,EXITOSA,España,Liliana,Pino,Manzanares,Lituania,ZZZDAF20,Albania,08/03/2001,False,Ciríaco,Pino,Girón,Lituania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IEAD8V31,19/03/2023,11:00,1527,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Xiomara,Ángel,Santos,Chile,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-E7YW712W,19/04/2023,14:19,1955,EXITOSA,España,Florencio,Ibarra,Gárate,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-LC2QYG55,19/07/2023,14:53,1753,EXITOSA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-I06Q95PR,19/07/2023,08:10,1196,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-VLZ45I90,19/08/2023,01:52,2049,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8LMBWX4N,19/08/2023,13:44,1494,EXITOSA,España,Pascual,Costa,Mulet,Madagascar,Z8119270E,Irán,30/09/1970,False,Gaspar,Costa,Cuéllar,Madagascar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-85KLK46R,19/08/2023,16:15,874,EXITOSA,España,Crescencia,Tamarit,Montesinos,Liberia,X3617095T,Países Bajos,13/10/2001,False,Remigio,Rodrigo,Piñol,Liberia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OBHE8EI1,20/01/2023,17:15,758,FALLIDA,España,Rosa María,Azorin,Peiró,Kuwait,Y2671292V,Canadá,10/01/1961,False,Hipólito,Azorin,Izaguirre,Kuwait,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-3AO8AS0L,20/01/2023,20:57,66,CANCELADA,España,Eladio,Pareja,Bou,México,X9382404Z,Chile,08/12/1999,False,Victoria,Pareja,Ferrer,México,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-L9YNX3IH,20/04/2023,18:46,2857,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4GRTBAIP,20/05/2023,17:46,2441,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-J62RUX4U,20/05/2023,10:27,1601,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GWC07HD5,20/05/2023,13:08,1012,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Rosa,Simó,Miguel,Cuba,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NAHB6PHE,20/05/2023,14:19,1235,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-7NOFVNSY,20/07/2023,21:18,1900,CANCELADA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-K7PBIJS5,20/08/2023,16:16,1439,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-AKU8GFU5,20/09/2023,21:40,1403,EXITOSA,España,José María,Badía,Hidalgo,San Marino,Z7310131T,Grecia,05/09/1939,False,Maricela,Badía,,San Marino,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HRA23TSA,20/09/2023,13:48,2665,CANCELADA,España,Ainoa,Robles,Busquets,Eslovenia,Y0961710W,Namibia,01/05/1998,False,Jose,Galan,Nadal,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SJDJFKT0,20/09/2023,20:46,1530,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SE8QPQEW,20/09/2023,17:39,2872,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PK71BCW1,20/09/2023,14:57,559,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CBL3N0AJ,20/10/2023,12:49,235,EXITOSA,España,Lino,Zamorano,Roselló,Niger,X5527339W,Barbados,06/11/1993,False,Diego,Zamorano,,Niger,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-LQ93ZQUV,20/10/2023,10:25,781,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-AU69HB6V,20/11/2023,21:50,2996,EXITOSA,España,Amador,Alberdi,Caparrós,Turquía,X4265386J,Nueva Zelandia,19/12/1951,False,Eleuterio,Alberdi,,Turquía,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-O23CFSKI,21/01/2023,16:19,133,EXITOSA,España,Dan,Murillo,Ibarra,Samoa,Z1787607Y,Gabón,29/06/1977,False,Rosa,Murillo,Ramirez,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-9QO49HQ2,21/01/2023,17:40,2286,EXITOSA,España,Fortunata,Bru,Aragonés,Liechtenstein,X8286851C,Yemen,29/09/2001,False,Jacinto,Bru,Echeverría,Liechtenstein,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CL8J222W,21/01/2023,18:26,406,EXITOSA,España,Lisandro,Carmona,Diez,Filipinas,X2847505J,Uruguay,24/05/1924,False,Pancho,Carmona,Gelabert,Filipinas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4MYMDAIO,21/04/2023,18:03,1477,EXITOSA,España,Octavia,Rey,Jáuregui,Bélgica,Y3893984Y,Noruega,01/08/1953,False,Eulalia,Rey,Garay,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-63EDSHF8,21/04/2023,19:52,151,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PTU6SI4N,21/05/2023,14:58,1253,EXITOSA,España,Fernando,Valenzuela,,Mozambique,Y7065830Z,Marruecos,08/09/2014,False,Buenaventura,Valenzuela,,Mozambique,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-928505OL,21/06/2023,20:47,2655,EXITOSA,España,Pili,Roig,Garriga,Guinea Bissau,X1717463F,Nigeria,10/05/1964,False,Lucho,Roig,Mancebo,Guinea Bissau,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-W8JV6XHY,21/06/2023,20:15,131,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-P4JKMH6W,21/09/2023,16:00,1755,EXITOSA,España,Marino,Romeu,,Lituania,Z9756605X,Afganistán,02/04/1989,False,Jonatan,Romeu,Losa,Lituania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-O7E3DG06,21/09/2023,17:56,967,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-M1I22M60,21/11/2023,15:32,958,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HCLNHAP2,22/01/2023,14:30,1349,EXITOSA,España,Leandro,Valbuena,Alfonso,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ODLV1CNF,22/02/2023,19:55,2286,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-M3W5LBRS,22/03/2023,19:38,1011,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-27FAQ692,22/03/2023,18:07,1034,CANCELADA,España,Ileana,Quirós,Azcona,Ecuador,Y3485867R,Tayikistán,01/10/1962,False,Ester,Quirós,Aragón,Ecuador,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SAAWXLNT,22/03/2023,22:44,1125,EXITOSA,España,Alonso,Ayala,Carbonell,Palau,X6294064E,Argentina,22/09/2020,False,Sebastián,Ayala,Giménez,Palau,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8NQ5Q1SG,22/04/2023,15:35,463,EXITOSA,España,Fabricio,Llamas,Huguet,Suiza,X1734718N,Pakistán,05/02/2015,False,Teófilo,Llamas,Bonilla,Suiza,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-88CK7V4T,22/04/2023,09:10,1672,EXITOSA,España,Teresa,Cifuentes,Camacho,Saint Kitts y Nevis,Z9797720R,India,04/12/1973,False,Maxi,Cifuentes,Costa,Saint Kitts y Nevis,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-7RD4E0NY,22/04/2023,12:22,2964,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-UMCROO1A,22/04/2023,21:34,478,FALLIDA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Amador,Montserrat,Tirado,Líbano,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-A7G2XALJ,22/05/2023,15:39,1256,EXITOSA,España,Albano,Acero,Romero,Venezuela,X4819465E,Eritrea,29/07/1937,False,Noé,Acero,Mascaró,Venezuela,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KI7CLXXC,22/05/2023,13:11,1406,EXITOSA,España,Ernesto,Ibañez,Torre,Perú,Y1010414S,Luxemburgo,01/11/1927,False,Leire,Ibañez,Llanos,Perú,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-RBWR1ALV,22/05/2023,09:24,320,EXITOSA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8UTMM15R,22/06/2023,10:08,2340,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OPXT4WMD,22/07/2023,10:52,1881,EXITOSA,España,Felisa,Cardona,Diez,Vietman,Z5194129K,Albania,22/05/2007,False,Victor,Cardona,Robles,Vietman,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-9SSWA698,22/08/2023,19:05,63,EXITOSA,España,Albert,Salazar,Teruel,Nueva Zelandia,Z3894610W,República Dominicana,16/07/1995,False,Marcia,Salazar,Novoa,Nueva Zelandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NERL69Z5,22/08/2023,21:42,502,EXITOSA,España,Arcelia,Tirado,Belda,Nigeria,X4663900Y,Kiribati,22/10/1977,False,Adriana,Tirado,Pinto,Nigeria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-BBVKN49U,22/08/2023,11:42,1164,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-3WQ94YKV,22/08/2023,16:59,107,EXITOSA,España,Azahar,Arrieta,Palau,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XVR827DC,22/09/2023,10:42,2101,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CS8NPRNN,22/09/2023,19:13,966,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Irma,Marquez,Ruiz,Barbados,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CIQQ1YLR,22/09/2023,12:07,1825,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-81CGUJNO,22/09/2023,19:01,2212,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CHC9R83Y,22/09/2023,21:23,546,EXITOSA,España,Juan Francisco,Segarra,,Congo,Z0142097P,Eslovenia,24/01/1921,False,Carlito,Segarra,Bermejo,Congo,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-N5NUNWCD,22/10/2023,14:42,732,CANCELADA,España,Adelia,Castro,Carballo,Irlanda,Y9120534J,Bahamas,19/04/1934,False,Evaristo,Castro,Andreu,Irlanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-7J9IBY8Y,22/10/2023,14:35,2278,EXITOSA,España,Alberto,Toledo,Pacheco,Ecuador,X5796125X,Rwanda,18/01/1988,False,Adelardo,Toledo,Andrade,Ecuador,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-F32AJFE6,22/11/2023,19:57,1406,EXITOSA,España,Elisabet,Tamayo,Calvet,Hungría,Y7528117R,Camboya,19/01/1961,False,Julio,Tamayo,Villalobos,Hungría,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-AQBTNVH5,22/11/2023,13:28,238,EXITOSA,España,Yolanda,Reig,Lobato,Granada,Z4452913A,Camboya,29/09/1995,False,Caridad,Reig,Perez,Granada,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-L62HPWRI,22/12/2023,18:01,2467,EXITOSA,España,Eugenio,Velázquez,Trillo,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-O0TO4KTJ,23/01/2023,21:24,2471,EXITOSA,España,Emilia,Gálvez,,Irlanda,X3384810S,Bélgica,20/08/2023,False,Milagros,Gálvez,Cabrera,Irlanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-3UTYBL99,23/03/2023,07:02,680,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NSGNEERO,23/04/2023,10:04,2852,CANCELADA,España,Judith,Barral,Pedraza,Kirguistán,Y8801201N,República Dominicana,24/08/1932,False,Damián,Barral,Sotelo,Kirguistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SC7J5N8C,23/04/2023,14:47,1627,EXITOSA,España,Julie,Sarmiento,Castell,Mónaco,Z1027154W,Belarús,01/10/1940,False,Maxi,Sarmiento,Gargallo,Mónaco,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KZIZ2AI9,23/04/2023,12:31,2564,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-UMO3TFW6,23/06/2023,17:57,2262,EXITOSA,España,Nieves,Pont,Zorrilla,Bhután,Y1818583X,Zimbabwe,27/04/1932,False,Albina,Pont,,Bhután,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JGNWEEB7,23/06/2023,11:10,2522,EXITOSA,España,Salomé,Bonilla,Azorin,Swazilandia,X2501157E,Botswana,09/11/1921,False,Matías,Bonilla,,Swazilandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-3CJLQPJU,23/06/2023,21:14,2257,EXITOSA,España,Carlito,Barbero,Carnero,Belice,Y9391805E,Irán,24/11/1915,False,Heliodoro,Barbero,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-RTFOXBTT,23/06/2023,15:20,2471,EXITOSA,España,Febe,Osuna,Baena,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2IHXH8WG,23/07/2023,18:03,2672,EXITOSA,España,Nerea,Conde,Feijoo,Malta,Z6711935B,Lesotho,03/10/2012,False,Nando,Conde,Campo,Malta,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-8MGZKZ9O,23/07/2023,16:44,238,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FNS4PZ6X,23/07/2023,17:34,493,EXITOSA,España,José Antonio,Cárdenas,Rojas,Lesotho,Z4853657H,Eslovenia,23/07/1985,False,Primitivo,Velázquez,Taboada,Lesotho,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PERDCUW0,23/07/2023,15:57,2651,EXITOSA,España,Chuy,Andreu,Cervera,Mongolia,Z3330197D,República Popular Democrática de Corea,03/02/1911,False,Cristóbal,Andreu,Cabrero,Mongolia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-84471CZX,23/10/2023,19:08,2378,EXITOSA,España,Narciso,Salom,Lago,Uruguay,Z1456194T,Saint Kitts y Nevis,02/10/1962,False,Norberto,Salom,,Uruguay,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-4R090XPJ,23/10/2023,15:18,721,EXITOSA,España,Melania,Solera,Valbuena,Mauritania,Y8793179V,Estados Unidos de América,31/12/2013,False,Vicente,Solera,Roman,Mauritania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OEBISWT4,23/12/2023,12:04,666,EXITOSA,España,Leyre,Puig,,San Vicente y las Granadinas,Z8167738Y,Gambia,18/12/1954,False,Caridad,Puig,Pérez,San Vicente y las Granadinas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OBAVPY5A,24/01/2023,11:17,1294,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Encarna,Meléndez,Ros,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WX16PSW0,24/01/2023,16:01,2526,EXITOSA,España,Saturnino,Fábregas,Sevilla,Timor-Leste,Y1848480F,Sierra Leona,03/02/1954,False,María Ángeles,Fábregas,,Timor-Leste,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-J98AWY3N,24/02/2023,13:37,1105,EXITOSA,España,Fabio,Prats,Larrea,Myanmar,Z9183660H,Uganda,20/08/2012,False,Constanza,Prats,Peláez,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PG0R0B4X,24/02/2023,10:27,1418,EXITOSA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-T4VFHJ2Q,24/03/2023,18:30,1598,EXITOSA,España,Coral,Alvarez,Esparza,Trinidad y Tabago,Z2942158A,Maldivas,10/09/1915,False,Imelda,Alvarez,Paredes,Trinidad y Tabago,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2QT5WQGP,24/03/2023,17:13,591,EXITOSA,España,Paula,Fiol,Lluch,Mali,X9948316B,Côte d'Ivoire,09/05/1978,False,Gabriel,Fiol,,Mali,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-II7KI1KM,24/03/2023,09:00,2362,EXITOSA,España,Jose Manuel,Yáñez,Roldán,Pakistán,Z9181968M,Timor-Leste,25/08/1974,False,Pepita,Yáñez,Sedano,Pakistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-U0Y8ZDGG,24/04/2023,18:37,1931,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-3Z89CBNC,24/04/2023,13:56,2001,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ZZGWS9D3,24/04/2023,18:29,334,EXITOSA,España,Bautista,Lago,,Israel,Y0053668T,Mali,15/01/1989,False,Nerea,Lago,Vazquez,Israel,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WGPQ1N53,24/05/2023,14:41,2224,EXITOSA,España,Margarita,Jaén,Caballero,Honduras,X4177581E,Arabia Saudita,18/04/2000,False,Perlita,Jaén,Serna,Honduras,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XLEEJOXI,24/06/2023,11:28,747,EXITOSA,España,Saturnino,Roldán,Nogués,Senegal,Z5021907T,Omán,20/10/1918,False,Rocío,Roldán,Diez,Senegal,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2CG2UFBB,24/07/2023,18:06,827,EXITOSA,España,Crescencia,Osuna,Gallo,Niger,Y5314190P,Kenya,19/08/1920,False,Nazario,Osuna,Ortuño,Niger,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-K8TH8OVO,24/07/2023,10:27,2278,CANCELADA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XPWDJTXK,24/08/2023,16:42,417,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CVSB6SL2,24/08/2023,20:37,1499,EXITOSA,España,Zoraida,Bonet,Camacho,Madagascar,X8191505D,Afganistán,12/01/2024,False,Evaristo,Bonet,Bermúdez,Madagascar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QCXRYVPD,24/08/2023,05:42,1323,FALLIDA,España,Chuy,Sarmiento,,Bhután,X0988786Q,Jordania,11/12/1941,False,Timoteo,Sarmiento,Barco,Bhután,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FVBV8LWD,24/08/2023,04:24,1555,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-Q8P0MB6O,24/09/2023,20:50,1396,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FLTPHC10,24/09/2023,11:57,1602,EXITOSA,España,Guadalupe,Gutiérrez,Baños,Somalia,Y5888565G,Etiopía,24/02/1945,False,Aura,Gutiérrez,Pozo,Somalia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-RM2EUE5K,24/09/2023,14:02,332,EXITOSA,España,Aristides,Ramos,Ródenas,Islas Salomón,X1146452V,Sri Lanka,29/01/1996,False,Eric,Ramos,Paz,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OBV3UFHF,24/09/2023,21:04,1607,EXITOSA,España,María Pilar,Aguilera,Miguel,Túnez,Z4088537Q,Jamaica,25/11/1980,False,Amador,Aguilera,Quintanilla,Túnez,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CRP5KPAE,24/10/2023,15:24,1680,EXITOSA,España,Juan Manuel,Valls,,Dinamarca,Y3838232Y,Lituania,06/10/1994,False,Ale,Valls,Ferrer,Dinamarca,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-M3GVN2FZ,24/12/2023,12:18,292,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Reyes,Gallego,Haro,Haití,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-UUQUCK4J,24/12/2023,09:53,344,EXITOSA,España,Goyo,Castañeda,Benavente,Líbano,Z5502387X,Tuvalu,23/01/2025,False,Miguel Ángel,Castañeda,,Líbano,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-K2UUUK1G,24/12/2023,16:21,2080,EXITOSA,España,Teodosio,Aranda,Llabrés,Zambia,Z2509497H,Samoa,14/09/1914,False,Daniel,Aranda,Coll,Zambia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-2K71J05L,25/01/2023,21:14,1666,EXITOSA,España,Ambrosio,Ocaña,Arnau,Afganistán,X9695800N,Micronesia,23/04/1929,False,Gonzalo,Ocaña,,Afganistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-A2UMFHD2,25/02/2023,10:06,545,EXITOSA,España,Adrián,Azorin,Vera,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IIEADUJJ,25/03/2023,18:57,1487,EXITOSA,España,Poncio,Escamilla,,Turkmenistán,X0505400K,Noruega,22/08/1952,False,Juan Luis,Escamilla,,Turkmenistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ZROFPRL1,25/03/2023,19:23,771,EXITOSA,España,Román,Alcaraz,Bernad,República de Macedonia del Norte,Y0429716K,Belice,21/10/2003,False,Zaida,Alcaraz,Ferreras,República de Macedonia del Norte,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PHDIH3O9,25/03/2023,21:20,1883,EXITOSA,España,Fortunata,Hernando,Grande,India,X2041861J,Singapur,02/05/1985,False,Charo,Hernando,,India,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SE2CB4SS,25/04/2023,15:57,2068,EXITOSA,España,Ana Belén,Barceló,Carballo,Indonesia,Z8461503S,República Checa,29/12/1924,False,Fabiola,Barceló,Amores,Indonesia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-297IRJWG,25/04/2023,18:40,2945,EXITOSA,España,Saturnino,Reyes,Barros,Albania,Y9519997N,Estados Unidos de América,07/05/1916,False,Bruno,Reyes,Morcillo,Albania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QPZOK9ET,25/05/2023,17:46,1219,EXITOSA,España,Octavio,Rosales,,Chipre,Z9326552B,Uganda,16/04/1918,False,Fidela,Díez,Romeu,Antigua y Barbuda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-E24ICK33,25/05/2023,12:16,1709,EXITOSA,España,Albert,Valentín,Pellicer,Madagascar,X7294480F,Zimbabwe,20/02/1983,False,Juan Francisco,Valentín,Plana,Madagascar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-P7R6GKZR,25/06/2023,17:32,2817,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FC3YWQ6B,25/07/2023,13:50,154,EXITOSA,España,Paulina,Jara,,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WUVKXSZF,25/07/2023,13:13,1869,EXITOSA,España,Juan Luis,Feliu,Flores,Pakistán,X3453794E,Sudán del Sur,21/04/1919,False,Nicolasa,Feliu,Romeu,Pakistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-JA42IWZB,25/07/2023,19:04,1262,EXITOSA,España,América,Sarabia,Almansa,Eslovenia,Y7365022E,Reino Unido de Gran Bretaña e Irlanda del Norte,06/08/2018,False,Ainoa,Sarabia,,Eslovenia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-OUHBX7SX,25/08/2023,15:07,650,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-MFNQL305,25/08/2023,16:20,2691,EXITOSA,España,Juan Bautista,Simó,Torres,Cuba,X3724539B,Chad,16/02/1930,False,Rosa,Simó,Miguel,Cuba,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CDFRHK69,25/08/2023,13:35,1960,EXITOSA,España,Tecla,Yáñez,Rey,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-J4KH8518,25/08/2023,20:04,2861,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-V2E1QEAJ,25/09/2023,21:18,831,EXITOSA,España,Félix,Bermúdez,Giner,Camboya,Z4859632J,República Árabe Siria,09/09/1970,False,Pía,Bermúdez,Flor,Camboya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-E2DTTE2R,25/12/2023,20:37,539,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-S4LIQJJ7,26/02/2023,12:46,237,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-DI0P308C,26/02/2023,20:24,1056,EXITOSA,España,Eliana,Leon,Morera,Malawi,Z1186700C,Argelia,05/11/1960,False,Fidela,Leon,Chamorro,Malawi,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HWLXBQDU,26/03/2023,13:54,1136,EXITOSA,España,Augusto,Arjona,,República Árabe Siria,X8766363M,Sri Lanka,16/02/1995,False,Vanesa,Arjona,Castrillo,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WQOP1JZ4,26/03/2023,20:40,2303,EXITOSA,España,Raúl,Ramírez,Requena,Eslovenia,Z8585126J,Chile,16/09/1945,False,Dan,Ramírez,,Eslovenia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-P4NYOZWD,26/05/2023,10:16,1380,EXITOSA,España,Leticia,Aguilera,Correa,Mauricio,Y6265067L,Seychelles,17/08/1919,False,Amada,Aguilera,,Mauricio,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-5GW2BU32,26/06/2023,09:53,2297,EXITOSA,España,Noemí,Caro,,Egipto,X7320193Y,Guinea,07/01/1993,False,Merche,Sobrino,Vazquez,Lituania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CPA9EHAG,26/06/2023,20:03,2522,EXITOSA,España,Tiburcio,Bru,,Rumania,X9904734Z,Bangladesh,28/01/1913,False,Manuel,Soria,,República Popular Democrática de Corea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-CGW80HR9,26/07/2023,10:17,2733,EXITOSA,España,Fito,Campoy,,Togo,X6067378R,Estonia,27/06/1986,False,Miguel Ángel,Campoy,Rivera,Togo,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-9GPX19H1,26/07/2023,12:56,777,EXITOSA,España,María,Calatayud,Medina,Bélgica,ZZZC12AA,Cuba,22/11/1961,False,Severino,Calatayud,Moles,Bélgica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-EVL5OXKC,26/08/2023,14:33,1483,EXITOSA,España,Roberta,Montes,,Islas Salomón,X4840919V,India,01/09/1960,False,Eligia,Montes,Muñoz,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-DGTSULNU,26/08/2023,11:53,1835,EXITOSA,España,Poncio,Vaquero,Castellanos,Uzbekistán,Y3750340C,Palau,12/05/1978,False,Rosaura,Vaquero,Carrión,Uzbekistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IQQGCDC2,26/10/2023,19:04,242,FALLIDA,España,Apolonia,Busquets,Montesinos,Maldivas,Y7447351B,Gabón,07/08/2007,False,Roxana,Busquets,Zurita,Maldivas,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-008U4RLH,26/10/2023,11:33,1687,EXITOSA,España,José María,Exposito,Bolaños,Burundi,X3684962V,Swazilandia,16/01/2012,False,Ernesto,Exposito,,Burundi,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-K33ZCZR9,26/10/2023,11:14,2532,EXITOSA,España,Emigdio,Villanueva,Sebastián,Brasil,X8040002F,Eslovenia,07/04/1994,False,Rosaura,Villanueva,Coloma,Brasil,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-X5MWFXXN,26/11/2023,20:33,413,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-D9U71TOP,26/11/2023,15:10,670,CANCELADA,España,Sebastián,Granados,,Serbia,X4303137K,Zambia,10/08/1985,False,Dominga,Granados,Andreu,Serbia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-AFVWY3HW,27/01/2023,18:20,2152,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Albuñol,Sujeto_Obligado13,Agente13807,True
+TXN-11GRLWMN,27/02/2023,16:06,2385,EXITOSA,España,Remedios,Valverde,Aparicio,China,Y9063487Y,Bangladesh,02/10/1971,False,Vicenta,Valverde,Bas,China,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-EQYD9MOP,27/02/2023,09:34,1008,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-SG9IOB3Z,27/03/2023,21:57,1367,EXITOSA,España,Amado,Nogués,Álvarez,Kenya,Z3109475H,Camerún,27/11/2009,False,Kike,Nogués,Montaña,Kenya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ELKB80DP,27/03/2023,17:40,2824,EXITOSA,España,Bernardo,Lucas,Iborra,República Checa,X4459615F,Tailandia,30/10/1968,False,Josep,Lucas,Beltrán,República Checa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-KLGXD3MZ,27/05/2023,16:48,970,EXITOSA,España,Emelina,Merino,Cañas,Noruega,X2794609V,Nicaragua,18/06/2020,False,Edu,Merino,Aguado,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IG2W0A6B,27/05/2023,10:32,735,EXITOSA,España,Lalo,Ribes,Verdú,Islas Salomón,X3070927J,Andorra,31/07/2021,False,Miguel Ángel,Ribes,Bayo,Islas Salomón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0SLDQQBM,27/05/2023,20:32,1245,EXITOSA,España,Odalis,Muñoz,Aguado,Estados Unidos de América,Z8316239L,Madagascar,19/05/1991,False,Hugo,Muñoz,Vives,Estados Unidos de América,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WDEXJICJ,27/05/2023,14:05,467,EXITOSA,España,Antonia,Catalá,Salom,República Democrática Popular Lao,X3918088S,Bosnia y Herzegovina,17/02/2013,False,Merche,Córdoba,Cortina,Antigua y Barbuda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GWEQI2G0,27/06/2023,19:31,2294,EXITOSA,España,América,Herrera,Pozuelo,República Árabe Siria,Y0621131F,Lituania,16/05/1950,False,Silvia,Herrera,Giménez,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-XVA2BPFB,27/06/2023,11:33,962,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-L8C08XVP,27/06/2023,14:32,731,EXITOSA,España,Celestino,Viñas,Arnau,Gabón,X5079963E,Estonia,05/12/1934,False,Jose Miguel,Viñas,,Gabón,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-RLEGH6GX,27/07/2023,10:58,338,EXITOSA,España,Duilio,Redondo,Codina,Bolivia,Z4051100T,Indonesia,02/02/1981,False,Manuela,Redondo,Bárcena,Bolivia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PAO71DP5,27/07/2023,14:08,776,FALLIDA,España,Agapito,Torres,Galindo,Angola,Y4075136X,Panamá,26/06/1966,False,Isidora,Torres,Mateos,Angola,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-YLLI0NS9,27/08/2023,18:13,1197,EXITOSA,España,Nidia,Guzman,Mínguez,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-O3LZ6YNZ,27/10/2023,20:18,2799,EXITOSA,España,Albino,Piquer,Cabañas,Papua Nueva Guinea,Y1985358N,Rumania,19/10/1956,False,Saturnino,Piquer,Alemany,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-C7GBP55J,27/10/2023,11:18,2858,EXITOSA,España,Rodolfo,Abril,,Tailandia,X8109027D,Italia,22/03/2006,False,Clotilde,Guzman,Leal,Tailandia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ZZ4FY877,27/11/2023,19:37,226,CANCELADA,España,José María,Guerra,Botella,Djibouti,Y7616377X,Santo Tomé y Príncipe,08/01/1913,False,Lucila,Guerra,Bermúdez,Djibouti,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-D4ZZ5G18,27/11/2023,16:15,2158,EXITOSA,España,Alexandra,Navarro,Anaya,Belice,Y2288429N,Vietman,11/06/1916,False,Adora,Navarro,Alba,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-EEDF9719,27/11/2023,18:42,697,EXITOSA,España,Marina,Pardo,Aguirre,Irlanda,Y8478906Q,Bosnia y Herzegovina,30/12/2022,False,Hilario,Pardo,Asenjo,Irlanda,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-I9K1CX5O,27/12/2023,11:45,2014,EXITOSA,España,Noa,Moreno,Cuervo,Noruega,Z5093002W,Israel,10/11/1958,False,Felicidad,Moreno,Carreras,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-GT72EMMC,27/12/2023,15:21,2147,EXITOSA,España,Luisina,Hoz,Campoy,San Marino,Z6538013S,Sudáfrica,28/06/1926,False,Bárbara,Hoz,Solana,San Marino,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-IXTO98LS,27/12/2023,12:40,855,CANCELADA,España,Piedad,Cueto,Camacho,Reino Unido de Gran Bretaña e Irlanda del Norte,Z3853665C,Alemania,11/12/1931,False,María Del Carmen,Jara,Torres,Reino Unido de Gran Bretaña e Irlanda del Norte,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-WRA3OEO0,28/02/2023,13:59,1072,CANCELADA,España,Zaira,Briones,Puente,Bahrein,X1706604G,Bulgaria,24/09/1921,False,Pilar,Briones,Pellicer,Bahrein,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-B33NC0OB,28/02/2023,00:20,1001,EXITOSA,España,Lupe,Sancho,Perez,Noruega,Y5177780B,Burundi,10/10/2020,False,Estela,Sancho,Múgica,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-LBYADLUB,28/03/2023,18:53,2910,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-BM7JQ8QO,28/03/2023,11:16,170,EXITOSA,España,Jenaro,Perelló,Codina,Vanuatu,Z5709898S,Djibouti,19/01/1973,False,Amador,Perelló,Barberá,Vanuatu,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-90X07HZ2,28/04/2023,14:16,2297,EXITOSA,España,Fidela,Roig,Mate,Etiopía,Y7890689R,Guinea,13/01/1947,False,Luisina,Roig,Cerezo,Etiopía,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-66WUY3PR,28/06/2023,16:04,1168,EXITOSA,España,José,Ayllón,Nevado,Colombia,Z5161876Z,Egipto,26/03/1998,False,Joaquín,Ayllón,Trujillo,Colombia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-G7RDNCH3,28/06/2023,13:29,1740,EXITOSA,España,Clemente,Isern,Porta,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-VEQS6RJV,28/07/2023,11:21,1113,EXITOSA,España,Alejandro,Bayona,Godoy,República Popular Democrática de Corea,X2604283Q,Brunei Darussalam,03/06/1942,False,Tomás,Bayona,Jover,República Popular Democrática de Corea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-MZ5HAUAQ,28/08/2023,14:54,2302,CANCELADA,España,Encarnacion,Villalobos,Cervera,Guyana,Z4214175M,Palau,13/08/1996,False,Amor,Villalobos,Blasco,Guyana,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-ZPXPBKGP,28/08/2023,15:48,2915,EXITOSA,España,Santiago,Garzón,Cruz,Jamaica,X9310227B,Eslovenia,23/10/1928,False,Dani,Garzón,Valentín,Jamaica,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-AF8YFV2J,28/09/2023,14:02,1004,EXITOSA,España,Plácido,Patiño,Giralt,Kirguistán,X0891278M,Alemania,05/08/1978,False,Benjamín,Patiño,Matas,Kirguistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-PZSGW8R9,28/09/2023,18:35,647,EXITOSA,España,Andrés,Perez,Monreal,Malta,Z0727395W,Senegal,26/11/2022,False,Daniela,Perez,Coll,Malta,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-1DDMZ1AN,28/10/2023,18:33,2388,EXITOSA,España,Manu,Prat,Valderrama,Gabón,X4728854P,Georgia,22/08/1953,False,Felicidad,Moreno,Carreras,Noruega,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-O1HMPYCY,28/11/2023,15:59,732,CANCELADA,España,Ester,Viña,Arévalo,Samoa,X4345942T,Liberia,22/09/1910,False,Vera,Viña,Gras,Samoa,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-NCEMBX25,28/11/2023,21:00,2162,EXITOSA,España,Cintia,Gallego,Quero,Haití,Y4109436V,Kazajstán,11/05/1991,False,Reyes,Gallego,Haro,Haití,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-0AZUFN9G,28/12/2023,16:27,507,EXITOSA,España,Juanita,Yáñez,Cadenas,Belice,Z0643946C,Omán,05/06/2002,False,Chucho,Osuna,,Belice,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-QB0V04LF,28/12/2023,09:07,1210,EXITOSA,España,Jenny,Caparrós,Niño,Canadá,Z5852749J,Luxemburgo,30/12/1965,False,Evelia,Caparrós,Macías,Canadá,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-I6080TIO,21/01/2023,09:00,152,EXITOSA,España,Clementina,Meléndez,,Bélgica,X5836907J,Libia,17/06/1918,False,Central,Beneficiario,,España,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-M9OP9O3C,06/07/2023,15:07,65,EXITOSA,España,Regina,Castejón,Baena,Belice,X9045495D,Suecia,27/07/1914,False,Central,Beneficiario,,España,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-31B2C,28/04/2023,19:21,1266,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-131BC,28/04/2023,19:21,921,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-BA2CC,28/04/2023,19:21,1354,EXITOSA,España,Maximino,Pera,Coello,Tayikistán,X1930156L,Barbados,26/02/1932,False,Rodolfo,Pera,Mancebo,Tayikistán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-C1CA1,17/07/2023,20:57,958,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-311CB,17/07/2023,20:57,861,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-2A11C,17/07/2023,20:57,1294,EXITOSA,España,Anabel,Delgado,Real,Myanmar,Y6818360R,República Checa,15/05/1928,False,Lidia,Delgado,,Myanmar,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-331C2,25/12/2023,20:37,1087,EXITOSA,España,Loreto,Bauzà,Quiroga,Alemania,X9840244Q,Eslovaquia,19/01/1925,False,Manuelita,Bauzà,Cases,Alemania,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-2B21B,25/12/2023,10:20,990,EXITOSA,España,Marcelino,Reig,Pacheco,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-212C1,25/12/2023,10:20,1032,EXITOSA,España,Marcelino,Reig,Pacheco,Irán,Z8961404B,Ghana,20/11/1978,False,Ismael,Isern,,Irán,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-BCB22,22/10/2023,17:38,975,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-32CB1,22/10/2023,17:38,1404,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-1B21B,22/10/2023,17:38,1405,EXITOSA,España,Ricarda,Pelayo,Vidal,República Árabe Siria,Z4677002A,Swazilandia,24/01/1958,False,Purificación,Pelayo,,República Árabe Siria,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-31223,22/06/2023,19:11,1321,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-B3C22,22/06/2023,19:11,1015,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-FRAC-A1222,22/06/2023,19:11,1088,EXITOSA,España,Adelaida,Atienza,Olivera,Sierra Leona,X3191222H,Afganistán,27/08/2002,False,Victorino,Atienza,Nevado,Sierra Leona,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-9Y7Y9,04/07/2023,10:03,2523,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-9YY8X,04/07/2023,10:03,2601,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-XZ79Z,04/07/2023,10:03,2538,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-9YY98,04/07/2023,10:03,2935,EXITOSA,España,Lilia,Pareja,Molina,Saint Kitts y Nevis,Y4799099W,San Vicente y las Granadinas,02/03/2008,False,Jerónimo,Pareja,Pedrosa,Saint Kitts y Nevis,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-Y7X79,16/06/2023,13:20,2727,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-Y8X98,16/06/2023,13:20,2099,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-Z8Y88,16/06/2023,13:20,2987,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-8XZ79,16/06/2023,13:20,2333,EXITOSA,España,Tristán,Galan,,Papua Nueva Guinea,Y1345409S,Vanuatu,09/01/2023,False,Jose,Galan,Nadal,Papua Nueva Guinea,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-8XY7Y,15/03/2023,11:30,2566,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-Y9ZXZ,15/03/2023,11:30,2898,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-8Z7Y8,15/03/2023,11:30,2491,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-Z7YXZ,15/03/2023,11:30,2869,EXITOSA,España,Ani,Carrillo,Sanmartín,Camboya,X3479717R,Hungría,27/04/1942,False,Rosario,Carrillo,,Camboya,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-9XY87,01/07/2023,13:59,2262,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-8Z78Z,01/07/2023,13:59,2786,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-X799Y,01/07/2023,13:59,2797,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-Z998X,01/07/2023,13:59,2703,EXITOSA,España,Eutimio,Barriga,Costa,Libia,Y5262287Q,Belarús,30/03/1938,False,Jose Angel,Barriga,Tolosa,Libia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-7X8ZY,21/09/2023,15:04,2048,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-8Z79Y,21/09/2023,15:04,2884,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-8YYZZ,21/09/2023,15:04,2634,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-ZX7XY,21/09/2023,15:04,2443,EXITOSA,España,Encarnación,Seco,Vazquez,Argelia,Y1749997X,Samoa,17/12/1992,False,Desiderio,Seco,Tudela,Argelia,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-979Y8,02/03/2023,04:02,2294,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-7987X,02/03/2023,04:02,2658,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-Y9ZX7,02/03/2023,04:02,2339,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Albuñol,Sujeto_Obligado13,Agente13807,False
+TXN-HIGH-ZX997,02/03/2023,04:02,2978,EXITOSA,España,Jeremías,Aguiló,,Botswana,Z7082190N,Suecia,29/07/1929,False,Octavia,Aguiló,Mir,Botswana,Albuñol,Sujeto_Obligado13,Agente13807,False
